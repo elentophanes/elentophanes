@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg"
                   width="520"
-                  height="498"
-                  viewBox="0 0 520 498">
+                  height="472"
+                  viewBox="0 0 520 472">
 
         <rect
             x="1"
             y="1"
             width="518"
-            height="496"
+            height="470"
             rx="10"
             fill="#ffffff"
             stroke="#d0d7de"
@@ -385,7 +385,7 @@
         <rect
             x="309"
             y="196"
-            width="82"
+            width="80"
             height="20"
             rx="10.0"
             fill="#1a7f37"
@@ -401,14 +401,14 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
             fill="#24292f">
-            ⏱️ Speedrun
+            🥊 Knockout
         </text>
             
 
         <rect
             x="105"
             y="222"
-            width="80"
+            width="81"
             height="20"
             rx="10.0"
             fill="#1a7f37"
@@ -424,35 +424,12 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
             fill="#24292f">
-            🥊 Knockout
-        </text>
-            
-
-        <rect
-            x="191"
-            y="222"
-            width="81"
-            height="20"
-            rx="10.0"
-            fill="#1a7f37"
-            fill-opacity="0.12"
-            stroke="#1a7f37"
-            stroke-opacity="0.5"
-            stroke-width="1"/>
-
-        <text
-            x="199"
-            y="236"
-            text-anchor="start"
-            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="10"
-            fill="#24292f">
             ⚽ Hat-trick
         </text>
             
 
         <rect
-            x="278"
+            x="192"
             y="222"
             width="72"
             height="20"
@@ -464,7 +441,7 @@
             stroke-width="1"/>
 
         <text
-            x="286"
+            x="200"
             y="236"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -475,8 +452,8 @@
             
 
         <rect
-            x="105"
-            y="248"
+            x="270"
+            y="222"
             width="83"
             height="20"
             rx="10.0"
@@ -487,8 +464,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="262"
+            x="278"
+            y="236"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -498,7 +475,7 @@
             
 
         <rect
-            x="194"
+            x="105"
             y="248"
             width="57"
             height="20"
@@ -510,7 +487,7 @@
             stroke-width="1"/>
 
         <text
-            x="202"
+            x="113"
             y="262"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -521,7 +498,7 @@
             
 
         <rect
-            x="257"
+            x="168"
             y="248"
             width="102"
             height="20"
@@ -533,7 +510,7 @@
             stroke-width="1"/>
 
         <text
-            x="265"
+            x="176"
             y="262"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -544,8 +521,8 @@
             
 
         <rect
-            x="105"
-            y="274"
+            x="276"
+            y="248"
             width="103"
             height="20"
             rx="10.0"
@@ -556,8 +533,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="288"
+            x="284"
+            y="262"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -567,7 +544,7 @@
             
 
         <rect
-            x="214"
+            x="105"
             y="274"
             width="100"
             height="20"
@@ -579,7 +556,7 @@
             stroke-width="1"/>
 
         <text
-            x="222"
+            x="113"
             y="288"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -590,7 +567,7 @@
             
 
         <rect
-            x="320"
+            x="211"
             y="274"
             width="84"
             height="20"
@@ -602,7 +579,7 @@
             stroke-width="1"/>
 
         <text
-            x="328"
+            x="219"
             y="288"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -613,8 +590,8 @@
             
 
         <rect
-            x="105"
-            y="300"
+            x="301"
+            y="274"
             width="110"
             height="20"
             rx="10.0"
@@ -625,8 +602,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="314"
+            x="309"
+            y="288"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -636,7 +613,7 @@
             
 
         <rect
-            x="221"
+            x="105"
             y="300"
             width="74"
             height="20"
@@ -648,7 +625,7 @@
             stroke-width="1"/>
 
         <text
-            x="229"
+            x="113"
             y="314"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -659,7 +636,7 @@
             
 
         <rect
-            x="301"
+            x="185"
             y="300"
             width="82"
             height="20"
@@ -671,7 +648,7 @@
             stroke-width="1"/>
 
         <text
-            x="309"
+            x="193"
             y="314"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -682,8 +659,8 @@
             
 
         <rect
-            x="105"
-            y="326"
+            x="273"
+            y="300"
             width="81"
             height="20"
             rx="10.0"
@@ -694,8 +671,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="340"
+            x="281"
+            y="314"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -705,7 +682,7 @@
             
 
         <rect
-            x="192"
+            x="105"
             y="326"
             width="116"
             height="20"
@@ -717,7 +694,7 @@
             stroke-width="1"/>
 
         <text
-            x="200"
+            x="113"
             y="340"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -728,8 +705,8 @@
             
 
         <rect
-            x="105"
-            y="352"
+            x="227"
+            y="326"
             width="103"
             height="20"
             rx="10.0"
@@ -740,8 +717,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="366"
+            x="235"
+            y="340"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -751,7 +728,7 @@
             
 
         <rect
-            x="214"
+            x="105"
             y="352"
             width="107"
             height="20"
@@ -763,7 +740,7 @@
             stroke-width="1"/>
 
         <text
-            x="222"
+            x="113"
             y="366"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -774,8 +751,8 @@
             
 
         <rect
-            x="105"
-            y="378"
+            x="218"
+            y="352"
             width="122"
             height="20"
             rx="10.0"
@@ -786,8 +763,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="392"
+            x="226"
+            y="366"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -797,7 +774,7 @@
             
 
         <rect
-            x="233"
+            x="105"
             y="378"
             width="101"
             height="20"
@@ -809,7 +786,7 @@
             stroke-width="1"/>
 
         <text
-            x="241"
+            x="113"
             y="392"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -820,8 +797,8 @@
             
 
         <rect
-            x="105"
-            y="404"
+            x="212"
+            y="378"
             width="111"
             height="20"
             rx="10.0"
@@ -832,8 +809,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="418"
+            x="220"
+            y="392"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -843,8 +820,8 @@
             
 
         <rect
-            x="222"
-            y="404"
+            x="329"
+            y="378"
             width="67"
             height="20"
             rx="10.0"
@@ -855,8 +832,8 @@
             stroke-width="1"/>
 
         <text
-            x="230"
-            y="418"
+            x="337"
+            y="392"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -867,7 +844,7 @@
 
         <rect
             x="105"
-            y="430"
+            y="404"
             width="131"
             height="20"
             rx="10.0"
@@ -879,7 +856,7 @@
 
         <text
             x="113"
-            y="444"
+            y="418"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -890,7 +867,7 @@
 
         <rect
             x="242"
-            y="430"
+            y="404"
             width="111"
             height="20"
             rx="10.0"
@@ -902,7 +879,7 @@
 
         <text
             x="250"
-            y="444"
+            y="418"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -913,7 +890,7 @@
 
         <rect
             x="105"
-            y="456"
+            y="430"
             width="110"
             height="20"
             rx="10.0"
@@ -925,7 +902,7 @@
 
         <text
             x="113"
-            y="470"
+            y="444"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
