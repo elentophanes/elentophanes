@@ -1,0 +1,650 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+                  width="520"
+                  height="676"
+                  viewBox="0 0 520 676">
+
+        <rect
+            x="1"
+            y="1"
+            width="518"
+            height="674"
+            rx="10"
+            fill="#ffffff"
+            stroke="#d0d7de"
+            stroke-width="1.5"/>
+        
+
+        <text
+            x="260"
+            y="32"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="16"
+            font-weight="700"
+            fill="#24292f">
+            CODING HABITS
+        </text>
+        
+
+        <text
+            x="260"
+            y="50"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            Oct 2025 – Oct 2026
+        </text>
+        
+
+            <text
+                x="105"
+                y="75"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Current streak
+            </text>
+
+            <text
+                x="415"
+                y="75"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                3 days
+            </text>
+            
+
+            <text
+                x="105"
+                y="98"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Last commit
+            </text>
+
+            <text
+                x="415"
+                y="98"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                yesterday
+            </text>
+            
+
+            <text
+                x="105"
+                y="121"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Contributions vs previous 12 months
+            </text>
+
+            <text
+                x="415"
+                y="121"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#1a7f37">
+                ▲ 44×
+            </text>
+            
+
+            <text
+                x="105"
+                y="144"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Weekend share
+            </text>
+
+            <text
+                x="415"
+                y="144"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                53%
+            </text>
+            
+
+            <text
+                x="105"
+                y="167"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Biggest day
+            </text>
+
+            <text
+                x="415"
+                y="167"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                54 (Oct 4)
+            </text>
+            
+
+        <text
+            x="105"
+            y="198"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            font-weight="700"
+            letter-spacing="0.5"
+            fill="#57606a">
+            CODING HOURS (local time)
+        </text>
+        
+
+        <text
+            x="415"
+            y="198"
+            text-anchor="end"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#57606a">
+            Peak 22:00–23:00
+        </text>
+            
+
+        <line
+            x1="105"
+            y1="248"
+            x2="415"
+            y2="248"
+            stroke="#d0d7de"
+            stroke-width="1"/>
+        
+<rect x="106.00" y="230.61" width="10.92" height="17.39" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="118.92" y="247.13" width="10.92" height="0.87" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="196.42" y="243.65" width="10.92" height="4.35" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="209.33" y="226.26" width="10.92" height="21.74" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="222.25" y="221.91" width="10.92" height="26.09" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="235.17" y="233.22" width="10.92" height="14.78" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="248.08" y="223.65" width="10.92" height="24.35" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="261.00" y="243.65" width="10.92" height="4.35" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="273.92" y="237.57" width="10.92" height="10.43" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="286.83" y="241.04" width="10.92" height="6.96" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="299.75" y="233.22" width="10.92" height="14.78" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="312.67" y="240.17" width="10.92" height="7.83" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="325.58" y="227.13" width="10.92" height="20.87" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="338.50" y="230.61" width="10.92" height="17.39" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="351.42" y="221.91" width="10.92" height="26.09" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="364.33" y="239.30" width="10.92" height="8.70" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="377.25" y="226.26" width="10.92" height="21.74" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="390.17" y="208.00" width="10.92" height="40.00" rx="1.5" fill="#1a7f37" fill-opacity="1"/>
+<rect x="403.08" y="212.35" width="10.92" height="35.65" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+
+        <text
+            x="111.5"
+            y="260"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            00
+        </text>
+            
+
+        <text
+            x="189.0"
+            y="260"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            06
+        </text>
+            
+
+        <text
+            x="266.5"
+            y="260"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            12
+        </text>
+            
+
+        <text
+            x="344.0"
+            y="260"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            18
+        </text>
+            
+
+        <text
+            x="408.5"
+            y="260"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            23
+        </text>
+            
+
+        <text
+            x="105"
+            y="288"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            font-weight="700"
+            letter-spacing="0.5"
+            fill="#57606a">
+            WEEKDAYS
+        </text>
+        
+
+        <text
+            x="415"
+            y="288"
+            text-anchor="end"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#57606a">
+            Busiest: Sunday
+        </text>
+            
+
+        <line
+            x1="105"
+            y1="338"
+            x2="415"
+            y2="338"
+            stroke="#d0d7de"
+            stroke-width="1"/>
+        
+<rect x="109.00" y="327.02" width="36.29" height="10.98" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="153.29" y="321.17" width="36.29" height="16.83" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="197.57" y="336.54" width="36.29" height="1.46" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="241.86" y="327.27" width="36.29" height="10.73" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="286.14" y="326.78" width="36.29" height="11.22" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="330.43" y="320.68" width="36.29" height="17.32" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="374.71" y="298.00" width="36.29" height="40.00" rx="1.5" fill="#1a7f37" fill-opacity="1"/>
+
+        <text
+            x="127.1"
+            y="350"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            Mon
+        </text>
+            
+
+        <text
+            x="171.4"
+            y="350"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            Tue
+        </text>
+            
+
+        <text
+            x="215.7"
+            y="350"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            Wed
+        </text>
+            
+
+        <text
+            x="260.0"
+            y="350"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            Thu
+        </text>
+            
+
+        <text
+            x="304.3"
+            y="350"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            Fri
+        </text>
+            
+
+        <text
+            x="348.6"
+            y="350"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            Sat
+        </text>
+            
+
+        <text
+            x="392.9"
+            y="350"
+            text-anchor="middle"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="9"
+            fill="#57606a">
+            Sun
+        </text>
+            
+
+        <text
+            x="105"
+            y="378"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            font-weight="700"
+            letter-spacing="0.5"
+            fill="#57606a">
+            FUN FACTS
+        </text>
+        
+
+            <text
+                x="105"
+                y="400"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Busiest season
+            </text>
+
+            <text
+                x="415"
+                y="400"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                Autumn 🍂
+            </text>
+            
+
+            <text
+                x="105"
+                y="423"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Full-moon commits
+            </text>
+
+            <text
+                x="415"
+                y="423"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                16%
+            </text>
+            
+
+            <text
+                x="105"
+                y="446"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Longest break
+            </text>
+
+            <text
+                x="415"
+                y="446"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                69 days
+            </text>
+            
+
+            <text
+                x="105"
+                y="469"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Busiest month
+            </text>
+
+            <text
+                x="415"
+                y="469"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                September (192)
+            </text>
+            
+
+            <text
+                x="105"
+                y="492"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Typical commit time
+            </text>
+
+            <text
+                x="415"
+                y="492"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                18:46
+            </text>
+            
+
+            <text
+                x="105"
+                y="515"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Fastest burst
+            </text>
+
+            <text
+                x="415"
+                y="515"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                12 commits in an hour
+            </text>
+            
+
+            <text
+                x="105"
+                y="538"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                New projects
+            </text>
+
+            <text
+                x="415"
+                y="538"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                24
+            </text>
+            
+
+            <text
+                x="105"
+                y="561"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                On GitHub since
+            </text>
+
+            <text
+                x="415"
+                y="561"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                2015 · 11 years
+            </text>
+            
+
+            <text
+                x="105"
+                y="584"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Longest session
+            </text>
+
+            <text
+                x="415"
+                y="584"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                23 h 44 min
+            </text>
+            
+
+            <text
+                x="105"
+                y="607"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Top project share
+            </text>
+
+            <text
+                x="415"
+                y="607"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                23% of commits
+            </text>
+            
+
+            <text
+                x="105"
+                y="630"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Quietest month
+            </text>
+
+            <text
+                x="415"
+                y="630"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                November (0)
+            </text>
+            
+
+            <text
+                x="105"
+                y="653"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Projects per week
+            </text>
+
+            <text
+                x="415"
+                y="653"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                3.6
+            </text>
+            
+</svg>
