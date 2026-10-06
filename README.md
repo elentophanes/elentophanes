@@ -24,7 +24,7 @@ Currently I have two 3D printers, although mostly I use a Bambu P1S with AMS as 
 
 ## Activity overview
 
-*Generated daily with my [github-stats-generator](https://github.com/elentophanes/github-stats-generator).  Only for fun and deifintiely not 'offiical'.*
+*Generated daily with my [github-stats-generator](https://github.com/elentophanes/github-stats-generator).  Only for fun and deifintiely not 'offiicial'.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-dark.svg?v=76480e6b8bd721003fb4e2c326160e4d34f8451ca627e22ae481e7c6afd61ea8">
