@@ -22,7 +22,7 @@
             font-size="16"
             font-weight="700"
             fill="#e6edf3">
-            PERSONAL RECORDS
+            MOST ACTIVE
         </text>
         
 
@@ -33,38 +33,38 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="9"
             fill="#6e7681">
-            All-time bests
+            All-time
         </text>
         
 
             <text x="36" y="86" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-                font-size="12" fill="#8d96a0">Biggest day</text>
+                font-size="12" fill="#8d96a0">Day</text>
             <text x="310" y="86" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
                 font-size="13" font-weight="600" fill="#e6edf3">54 · 4 Oct 2026</text>
             
 
             <text x="36" y="109" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-                font-size="12" fill="#8d96a0">Best week</text>
+                font-size="12" fill="#8d96a0">Week</text>
             <text x="310" y="109" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
                 font-size="13" font-weight="600" fill="#e6edf3">66 · 28 Sep 2026</text>
             
 
             <text x="36" y="132" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-                font-size="12" fill="#8d96a0">Best month</text>
+                font-size="12" fill="#8d96a0">Month</text>
             <text x="310" y="132" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
                 font-size="13" font-weight="600" fill="#e6edf3">192 · Sep 2026</text>
             
 
             <text x="36" y="155" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-                font-size="12" fill="#8d96a0">Longest streak</text>
+                font-size="12" fill="#8d96a0">Streak</text>
             <text x="310" y="155" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-                font-size="13" font-weight="600" fill="#e6edf3">8 days</text>
+                font-size="13" font-weight="600" fill="#e6edf3">8 days in a row</text>
             
 
             <text x="36" y="178" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-                font-size="12" fill="#8d96a0">Fastest burst</text>
+                font-size="12" fill="#8d96a0">Hour</text>
             <text x="310" y="178" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-                font-size="13" font-weight="600" fill="#e6edf3">12 in an hour · 4 Oct 2026</text>
+                font-size="13" font-weight="600" fill="#e6edf3">12 commits · 4 Oct 2026</text>
             
 <text x="425" y="70" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="700" letter-spacing="0.5" fill="#8d96a0">CODING CLOCK</text>
 <circle cx="425" cy="140" r="52" fill="none" stroke="#30363d" stroke-width="1"/>
@@ -73,7 +73,7 @@
 <line x1="430.4" y1="127.1" x2="430.7" y2="126.2" stroke="#3fb950" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round"/>
 <line x1="437.9" y1="145.4" x2="440.5" y2="146.4" stroke="#3fb950" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round"/>
 <line x1="436.1" y1="148.5" x2="455.2" y2="163.2" stroke="#3fb950" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round"/>
-<line x1="433.5" y1="151.1" x2="449.3" y2="171.7" stroke="#3fb950" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round"/>
+<line x1="433.5" y1="151.1" x2="449.9" y2="172.4" stroke="#3fb950" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round"/>
 <line x1="430.4" y1="152.9" x2="436.4" y2="167.5" stroke="#3fb950" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round"/>
 <line x1="426.8" y1="153.9" x2="430.2" y2="179.6" stroke="#3fb950" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round"/>
 <line x1="423.2" y1="153.9" x2="422.6" y2="158.5" stroke="#3fb950" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round"/>
