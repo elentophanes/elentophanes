@@ -27,14 +27,14 @@ Currently I have two 3D printers, although mostly I use a Bambu P1S with AMS as 
 *Generated daily with my own stats generator. Only used for fun and definitely not 'official' or intended to stress accomplishments or volume. If you like this, message me and I will consider making it a 'public repo' for others to use*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-dark.svg?v=fed6fe63afe50d9ea54f6324cbd58666251415db0724eacc8670ffededd286c7">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=573f4cde357721de624f16cb12f26873ab543ef7a67756a84e614c5a613f74ae">
-  <img alt="GitHub activity overview" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=573f4cde357721de624f16cb12f26873ab543ef7a67756a84e614c5a613f74ae">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-dark.svg?v=32ffb63512dd8eb4decde565cec5d8f85cfeac3fe712b2aa84978a6cf9e4da5f">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=060d4509912d80ed80ebf956bf50b89901a42ebd4f28f813cf1ada8d2569f906">
+  <img alt="GitHub activity overview" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=060d4509912d80ed80ebf956bf50b89901a42ebd4f28f813cf1ada8d2569f906">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-dark.svg?v=d2bd1334437123f0722b788b553193e1ae9873e34fe5bfcd7f8d482eb1f29c13">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=80d15a3aa4aea78e8829f805e3f558d244b0688bbd0f4f6454c4c29c84242cec">
-  <img alt="Coding habits" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=80d15a3aa4aea78e8829f805e3f558d244b0688bbd0f4f6454c4c29c84242cec">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-dark.svg?v=4af4ddc7c650e0ecef307bedf6237393696a7a2b7496d5dd8e855bf5e322bb3f">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=9384e40e1757b277ce4f7484a3dfe3de650db0e28860df0ea413155f58cb9f96">
+  <img alt="Coding habits" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=9384e40e1757b277ce4f7484a3dfe3de650db0e28860df0ea413155f58cb9f96">
 </picture>
 
 <picture>
@@ -44,9 +44,9 @@ Currently I have two 3D printers, although mostly I use a Bambu P1S with AMS as 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-dark.svg?v=ba705dcb37b2d7b18bebfe5ac1ced770da3fac8906b853ca522b763cd4714112">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=4b80ee38b6caab321910f7a90d022a0cb1c0f8489f540a00d040090adf94e196">
-  <img alt="Personal records" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=4b80ee38b6caab321910f7a90d022a0cb1c0f8489f540a00d040090adf94e196">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-dark.svg?v=e1eb84e97bc08088c08b2c2d024ca253f44b24bfdffad04d308c20520a412abb">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=917cb079ed18fb9128f769d49448794e68266572319a6edbe60eaf29fef209df">
+  <img alt="Personal records" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=917cb079ed18fb9128f769d49448794e68266572319a6edbe60eaf29fef209df">
 </picture>
 
 <picture>
@@ -58,7 +58,7 @@ Currently I have two 3D printers, although mostly I use a Bambu P1S with AMS as 
 <!--
 **elentophanes/elentophanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity.svg?v=573f4cde357721de624f16cb12f26873ab543ef7a67756a84e614c5a613f74ae" alt="Project activity">
+<img src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity.svg?v=060d4509912d80ed80ebf956bf50b89901a42ebd4f28f813cf1ada8d2569f906" alt="Project activity">
 
 Here are some ideas to get you started:
 
