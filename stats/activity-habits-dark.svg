@@ -55,7 +55,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                5 days
+                6 days
             </text>
             
 
@@ -77,7 +77,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                today
+                yesterday
             </text>
             
 
@@ -99,7 +99,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#3fb950">
-                ▲ 46×
+                ▲ 47×
             </text>
             
 
@@ -121,7 +121,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                51%
+                50%
             </text>
             
 
@@ -290,7 +290,7 @@
 <rect x="153.29" y="321.17" width="36.29" height="16.83" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="197.57" y="334.34" width="36.29" height="3.66" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="241.86" y="324.59" width="36.29" height="13.41" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="286.14" y="326.78" width="36.29" height="11.22" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="286.14" y="324.83" width="36.29" height="13.17" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="330.43" y="320.68" width="36.29" height="17.32" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="374.71" y="298.00" width="36.29" height="40.00" rx="1.5" fill="#3fb950" fill-opacity="1"/>
 
