@@ -32,9 +32,9 @@ Currently I have two 3D printers, although mostly I use a Bambu P1S with AMS as 
   <img alt="GitHub activity overview" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=c4b607ba03ca5ce400d3e62d36ca7d9283f577ea3fce5ad2f6afbff36867f599">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-dark.svg?v=1f62ac47249de9b338144c0a3c7f64d843e769560a3dc2ff2ab70569dd0befd7">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=12166d83e2764cdbdd5c8f57921a6292e2b273c060575e855481110c5233b053">
-  <img alt="Coding habits" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=12166d83e2764cdbdd5c8f57921a6292e2b273c060575e855481110c5233b053">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-dark.svg?v=821f350339e128004713f4904d75f674c764323467aac17002387a39c00ecc52">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=6dabfdbf558ac06b4231b493ee18fa8c0c78a2f57a6fc65c054accd0e3bd75ae">
+  <img alt="Coding habits" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=6dabfdbf558ac06b4231b493ee18fa8c0c78a2f57a6fc65c054accd0e3bd75ae">
 </picture>
 
 <picture>
@@ -50,9 +50,9 @@ Currently I have two 3D printers, although mostly I use a Bambu P1S with AMS as 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-dark.svg?v=4bf6161bfd1ecee4fdc4053ce2bb8bbd39516cd56a5d1872884796ca699c3fb2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=cee75c6235d5b3acff5bcc2196a53dffe6840cb1e46607745af24a220da6b06d">
-  <img alt="Compared with before" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=cee75c6235d5b3acff5bcc2196a53dffe6840cb1e46607745af24a220da6b06d">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-dark.svg?v=4ea78927d6ed8d29fde8ea50a960ca1192139f71c0f7335a6ec89d4fb5451f68">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=affb6bc102fbcbf6429d558e2ac3c3731163b6d21790072c617c30f549a4117b">
+  <img alt="Compared with before" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=affb6bc102fbcbf6429d558e2ac3c3731163b6d21790072c617c30f549a4117b">
 </picture>
 
 <picture>
