@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg"
                   width="520"
-                  height="472"
-                  viewBox="0 0 520 472">
+                  height="524"
+                  viewBox="0 0 520 524">
 
         <rect
             x="1"
             y="1"
             width="518"
-            height="470"
+            height="522"
             rx="10"
             fill="#0d1117"
             stroke="#30363d"
@@ -385,7 +385,7 @@
         <rect
             x="309"
             y="196"
-            width="80"
+            width="82"
             height="20"
             rx="10.0"
             fill="#3fb950"
@@ -401,14 +401,14 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
             fill="#e6edf3">
-            🥊 Knockout
+            ⏱️ Speedrun
         </text>
             
 
         <rect
             x="105"
             y="222"
-            width="81"
+            width="80"
             height="20"
             rx="10.0"
             fill="#3fb950"
@@ -424,13 +424,59 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
             fill="#e6edf3">
+            🥊 Knockout
+        </text>
+            
+
+        <rect
+            x="191"
+            y="222"
+            width="94"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="199"
+            y="236"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
+            🏋️ Heavy lifter
+        </text>
+            
+
+        <rect
+            x="291"
+            y="222"
+            width="81"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="299"
+            y="236"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
             ⚽ Hat-trick
         </text>
             
 
         <rect
-            x="192"
-            y="222"
+            x="105"
+            y="248"
             width="72"
             height="20"
             rx="10.0"
@@ -441,8 +487,8 @@
             stroke-width="1"/>
 
         <text
-            x="200"
-            y="236"
+            x="113"
+            y="262"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -452,8 +498,8 @@
             
 
         <rect
-            x="270"
-            y="222"
+            x="183"
+            y="248"
             width="83"
             height="20"
             rx="10.0"
@@ -464,8 +510,8 @@
             stroke-width="1"/>
 
         <text
-            x="278"
-            y="236"
+            x="191"
+            y="262"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -475,7 +521,7 @@
             
 
         <rect
-            x="105"
+            x="272"
             y="248"
             width="57"
             height="20"
@@ -487,7 +533,7 @@
             stroke-width="1"/>
 
         <text
-            x="113"
+            x="280"
             y="262"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -498,8 +544,8 @@
             
 
         <rect
-            x="168"
-            y="248"
+            x="105"
+            y="274"
             width="102"
             height="20"
             rx="10.0"
@@ -510,8 +556,8 @@
             stroke-width="1"/>
 
         <text
-            x="176"
-            y="262"
+            x="113"
+            y="288"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -521,8 +567,8 @@
             
 
         <rect
-            x="276"
-            y="248"
+            x="213"
+            y="274"
             width="103"
             height="20"
             rx="10.0"
@@ -533,8 +579,8 @@
             stroke-width="1"/>
 
         <text
-            x="284"
-            y="262"
+            x="221"
+            y="288"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -545,7 +591,7 @@
 
         <rect
             x="105"
-            y="274"
+            y="300"
             width="100"
             height="20"
             rx="10.0"
@@ -557,7 +603,7 @@
 
         <text
             x="113"
-            y="288"
+            y="314"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -568,7 +614,7 @@
 
         <rect
             x="211"
-            y="274"
+            y="300"
             width="84"
             height="20"
             rx="10.0"
@@ -580,7 +626,7 @@
 
         <text
             x="219"
-            y="288"
+            y="314"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -591,7 +637,7 @@
 
         <rect
             x="301"
-            y="274"
+            y="300"
             width="110"
             height="20"
             rx="10.0"
@@ -603,7 +649,7 @@
 
         <text
             x="309"
-            y="288"
+            y="314"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -614,7 +660,7 @@
 
         <rect
             x="105"
-            y="300"
+            y="326"
             width="74"
             height="20"
             rx="10.0"
@@ -626,7 +672,7 @@
 
         <text
             x="113"
-            y="314"
+            y="340"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -637,7 +683,7 @@
 
         <rect
             x="185"
-            y="300"
+            y="326"
             width="82"
             height="20"
             rx="10.0"
@@ -649,7 +695,7 @@
 
         <text
             x="193"
-            y="314"
+            y="340"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -660,7 +706,7 @@
 
         <rect
             x="273"
-            y="300"
+            y="326"
             width="81"
             height="20"
             rx="10.0"
@@ -672,7 +718,7 @@
 
         <text
             x="281"
-            y="314"
+            y="340"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -683,7 +729,7 @@
 
         <rect
             x="105"
-            y="326"
+            y="352"
             width="116"
             height="20"
             rx="10.0"
@@ -695,7 +741,7 @@
 
         <text
             x="113"
-            y="340"
+            y="366"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -706,8 +752,8 @@
 
         <rect
             x="227"
-            y="326"
-            width="103"
+            y="352"
+            width="94"
             height="20"
             rx="10.0"
             fill="#3fb950"
@@ -718,7 +764,30 @@
 
         <text
             x="235"
-            y="340"
+            y="366"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
+            🏇 Photo finish
+        </text>
+            
+
+        <rect
+            x="105"
+            y="378"
+            width="103"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="113"
+            y="392"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -728,8 +797,8 @@
             
 
         <rect
-            x="105"
-            y="352"
+            x="214"
+            y="378"
             width="107"
             height="20"
             rx="10.0"
@@ -740,8 +809,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="366"
+            x="222"
+            y="392"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -751,8 +820,8 @@
             
 
         <rect
-            x="218"
-            y="352"
+            x="105"
+            y="404"
             width="122"
             height="20"
             rx="10.0"
@@ -763,8 +832,8 @@
             stroke-width="1"/>
 
         <text
-            x="226"
-            y="366"
+            x="113"
+            y="418"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -774,8 +843,8 @@
             
 
         <rect
-            x="105"
-            y="378"
+            x="233"
+            y="404"
             width="101"
             height="20"
             rx="10.0"
@@ -786,8 +855,8 @@
             stroke-width="1"/>
 
         <text
-            x="113"
-            y="392"
+            x="241"
+            y="418"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -797,101 +866,9 @@
             
 
         <rect
-            x="212"
-            y="378"
-            width="111"
-            height="20"
-            rx="10.0"
-            fill="#3fb950"
-            fill-opacity="0.12"
-            stroke="#3fb950"
-            stroke-opacity="0.5"
-            stroke-width="1"/>
-
-        <text
-            x="220"
-            y="392"
-            text-anchor="start"
-            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="10"
-            fill="#e6edf3">
-            🧩 Project juggler
-        </text>
-            
-
-        <rect
-            x="329"
-            y="378"
-            width="67"
-            height="20"
-            rx="10.0"
-            fill="#3fb950"
-            fill-opacity="0.12"
-            stroke="#3fb950"
-            stroke-opacity="0.5"
-            stroke-width="1"/>
-
-        <text
-            x="337"
-            y="392"
-            text-anchor="start"
-            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="10"
-            fill="#e6edf3">
-            🖨️ Maker
-        </text>
-            
-
-        <rect
-            x="105"
-            y="404"
-            width="131"
-            height="20"
-            rx="10.0"
-            fill="#3fb950"
-            fill-opacity="0.12"
-            stroke="#3fb950"
-            stroke-opacity="0.5"
-            stroke-width="1"/>
-
-        <text
-            x="113"
-            y="418"
-            text-anchor="start"
-            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="10"
-            fill="#e6edf3">
-            📚 Language collector
-        </text>
-            
-
-        <rect
-            x="242"
-            y="404"
-            width="111"
-            height="20"
-            rx="10.0"
-            fill="#3fb950"
-            fill-opacity="0.12"
-            stroke="#3fb950"
-            stroke-opacity="0.5"
-            stroke-width="1"/>
-
-        <text
-            x="250"
-            y="418"
-            text-anchor="start"
-            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="10"
-            fill="#e6edf3">
-            🆕 Project starter
-        </text>
-            
-
-        <rect
             x="105"
             y="430"
-            width="110"
+            width="111"
             height="20"
             rx="10.0"
             fill="#3fb950"
@@ -907,7 +884,100 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
             fill="#e6edf3">
+            🧩 Project juggler
+        </text>
+            
+
+        <rect
+            x="222"
+            y="430"
+            width="67"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="230"
+            y="444"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
+            🖨️ Maker
+        </text>
+            
+
+        <rect
+            x="105"
+            y="456"
+            width="131"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="113"
+            y="470"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
+            📚 Language collector
+        </text>
+            
+
+        <rect
+            x="242"
+            y="456"
+            width="111"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="250"
+            y="470"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
+            🆕 Project starter
+        </text>
+            
+
+        <rect
+            x="105"
+            y="482"
+            width="110"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="113"
+            y="496"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
             🌙 Midnight coder
         </text>
             
+<text x="508" y="517" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 21 Oct 2026</text>
 </svg>
