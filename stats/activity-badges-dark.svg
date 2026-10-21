@@ -201,7 +201,7 @@
         <rect
             x="105"
             y="144"
-            width="97"
+            width="105"
             height="20"
             rx="10.0"
             fill="#3fb950"
@@ -217,12 +217,35 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
             fill="#e6edf3">
+            🥂 Midnight toast
+        </text>
+            
+
+        <rect
+            x="216"
+            y="144"
+            width="97"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="224"
+            y="158"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
             🎂 Anniversary
         </text>
             
 
         <rect
-            x="208"
+            x="319"
             y="144"
             width="83"
             height="20"
@@ -234,7 +257,7 @@
             stroke-width="1"/>
 
         <text
-            x="216"
+            x="327"
             y="158"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -245,8 +268,8 @@
             
 
         <rect
-            x="297"
-            y="144"
+            x="105"
+            y="170"
             width="80"
             height="20"
             rx="10.0"
@@ -257,8 +280,8 @@
             stroke-width="1"/>
 
         <text
-            x="305"
-            y="158"
+            x="113"
+            y="184"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -268,7 +291,7 @@
             
 
         <rect
-            x="105"
+            x="191"
             y="170"
             width="65"
             height="20"
@@ -280,7 +303,7 @@
             stroke-width="1"/>
 
         <text
-            x="113"
+            x="199"
             y="184"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -291,7 +314,7 @@
             
 
         <rect
-            x="176"
+            x="262"
             y="170"
             width="98"
             height="20"
@@ -303,7 +326,7 @@
             stroke-width="1"/>
 
         <text
-            x="184"
+            x="270"
             y="184"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -314,8 +337,8 @@
             
 
         <rect
-            x="280"
-            y="170"
+            x="105"
+            y="196"
             width="94"
             height="20"
             rx="10.0"
@@ -326,8 +349,8 @@
             stroke-width="1"/>
 
         <text
-            x="288"
-            y="184"
+            x="113"
+            y="210"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -337,7 +360,7 @@
             
 
         <rect
-            x="105"
+            x="205"
             y="196"
             width="84"
             height="20"
@@ -349,7 +372,7 @@
             stroke-width="1"/>
 
         <text
-            x="113"
+            x="213"
             y="210"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -360,7 +383,7 @@
             
 
         <rect
-            x="195"
+            x="295"
             y="196"
             width="108"
             height="20"
@@ -372,7 +395,7 @@
             stroke-width="1"/>
 
         <text
-            x="203"
+            x="303"
             y="210"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -383,8 +406,8 @@
             
 
         <rect
-            x="309"
-            y="196"
+            x="105"
+            y="222"
             width="82"
             height="20"
             rx="10.0"
@@ -395,8 +418,8 @@
             stroke-width="1"/>
 
         <text
-            x="317"
-            y="210"
+            x="113"
+            y="236"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
@@ -406,7 +429,7 @@
             
 
         <rect
-            x="105"
+            x="193"
             y="222"
             width="80"
             height="20"
@@ -418,7 +441,7 @@
             stroke-width="1"/>
 
         <text
-            x="113"
+            x="201"
             y="236"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -429,7 +452,7 @@
             
 
         <rect
-            x="191"
+            x="279"
             y="222"
             width="94"
             height="20"
@@ -441,7 +464,7 @@
             stroke-width="1"/>
 
         <text
-            x="199"
+            x="287"
             y="236"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -452,32 +475,9 @@
             
 
         <rect
-            x="291"
-            y="222"
-            width="81"
-            height="20"
-            rx="10.0"
-            fill="#3fb950"
-            fill-opacity="0.12"
-            stroke="#3fb950"
-            stroke-opacity="0.5"
-            stroke-width="1"/>
-
-        <text
-            x="299"
-            y="236"
-            text-anchor="start"
-            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="10"
-            fill="#e6edf3">
-            ⚽ Hat-trick
-        </text>
-            
-
-        <rect
             x="105"
             y="248"
-            width="72"
+            width="81"
             height="20"
             rx="10.0"
             fill="#3fb950"
@@ -493,12 +493,35 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
             fill="#e6edf3">
+            ⚽ Hat-trick
+        </text>
+            
+
+        <rect
+            x="192"
+            y="248"
+            width="72"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="200"
+            y="262"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
             ⛵ Regatta
         </text>
             
 
         <rect
-            x="183"
+            x="270"
             y="248"
             width="83"
             height="20"
@@ -510,7 +533,7 @@
             stroke-width="1"/>
 
         <text
-            x="191"
+            x="278"
             y="262"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -521,32 +544,9 @@
             
 
         <rect
-            x="272"
-            y="248"
-            width="57"
-            height="20"
-            rx="10.0"
-            fill="#3fb950"
-            fill-opacity="0.12"
-            stroke="#3fb950"
-            stroke-opacity="0.5"
-            stroke-width="1"/>
-
-        <text
-            x="280"
-            y="262"
-            text-anchor="start"
-            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="10"
-            fill="#e6edf3">
-            🕶️ Leet
-        </text>
-            
-
-        <rect
             x="105"
             y="274"
-            width="102"
+            width="57"
             height="20"
             rx="10.0"
             fill="#3fb950"
@@ -562,12 +562,35 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="10"
             fill="#e6edf3">
+            🕶️ Leet
+        </text>
+            
+
+        <rect
+            x="168"
+            y="274"
+            width="102"
+            height="20"
+            rx="10.0"
+            fill="#3fb950"
+            fill-opacity="0.12"
+            stroke="#3fb950"
+            stroke-opacity="0.5"
+            stroke-width="1"/>
+
+        <text
+            x="176"
+            y="288"
+            text-anchor="start"
+            font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="10"
+            fill="#e6edf3">
             🌓 Night and day
         </text>
             
 
         <rect
-            x="213"
+            x="276"
             y="274"
             width="103"
             height="20"
@@ -579,7 +602,7 @@
             stroke-width="1"/>
 
         <text
-            x="221"
+            x="284"
             y="288"
             text-anchor="start"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -979,5 +1002,5 @@
             🌙 Midnight coder
         </text>
             
-<text x="508" y="517" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 21 Oct 2026</text>
+<text x="508" y="517" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 22 Oct 2026 00:01</text>
 </svg>
