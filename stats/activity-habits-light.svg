@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg"
                   width="520"
-                  height="676"
-                  viewBox="0 0 520 676">
+                  height="745"
+                  viewBox="0 0 520 745">
 
         <rect
             x="1"
             y="1"
             width="518"
-            height="674"
+            height="743"
             rx="10"
             fill="#ffffff"
             stroke="#d0d7de"
@@ -179,24 +179,24 @@
             stroke="#d0d7de"
             stroke-width="1"/>
         
-<rect x="106.00" y="227.56" width="10.92" height="20.44" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="106.00" y="226.02" width="10.92" height="21.98" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="118.92" y="247.56" width="10.92" height="0.44" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="196.42" y="245.78" width="10.92" height="2.22" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="209.33" y="232.00" width="10.92" height="16.00" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="222.25" y="231.11" width="10.92" height="16.89" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="235.17" y="239.56" width="10.92" height="8.44" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="248.08" y="235.56" width="10.92" height="12.44" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="261.00" y="245.78" width="10.92" height="2.22" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="273.92" y="243.11" width="10.92" height="4.89" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="286.83" y="244.44" width="10.92" height="3.56" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="299.75" y="240.44" width="10.92" height="7.56" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="312.67" y="244.00" width="10.92" height="4.00" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="325.58" y="241.78" width="10.92" height="6.22" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="338.50" y="240.44" width="10.92" height="7.56" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="351.42" y="232.44" width="10.92" height="15.56" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="364.33" y="240.89" width="10.92" height="7.11" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="377.25" y="230.67" width="10.92" height="17.33" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="390.17" y="212.44" width="10.92" height="35.56" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="196.42" y="245.80" width="10.92" height="2.20" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="209.33" y="232.18" width="10.92" height="15.82" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="222.25" y="231.30" width="10.92" height="16.70" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="235.17" y="239.65" width="10.92" height="8.35" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="248.08" y="235.69" width="10.92" height="12.31" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="261.00" y="245.80" width="10.92" height="2.20" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="273.92" y="243.16" width="10.92" height="4.84" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="286.83" y="244.48" width="10.92" height="3.52" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="299.75" y="240.53" width="10.92" height="7.47" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="312.67" y="244.04" width="10.92" height="3.96" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="325.58" y="241.85" width="10.92" height="6.15" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="338.50" y="240.53" width="10.92" height="7.47" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="351.42" y="232.62" width="10.92" height="15.38" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="364.33" y="240.97" width="10.92" height="7.03" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="377.25" y="230.86" width="10.92" height="17.14" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="390.17" y="212.84" width="10.92" height="35.16" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="403.08" y="208.00" width="10.92" height="40.00" rx="1.5" fill="#1a7f37" fill-opacity="1"/>
 
         <text
@@ -288,7 +288,7 @@
         
 <rect x="109.00" y="327.16" width="36.29" height="10.84" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="153.29" y="321.37" width="36.29" height="16.63" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="197.57" y="333.66" width="36.29" height="4.34" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="197.57" y="333.18" width="36.29" height="4.82" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="241.86" y="324.75" width="36.29" height="13.25" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="286.14" y="321.37" width="36.29" height="16.63" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="330.43" y="320.89" width="36.29" height="17.11" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
@@ -490,7 +490,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#24292f">
-                21:27
+                21:31
             </text>
             
 
@@ -644,8 +644,74 @@
                 font-size="13"
                 font-weight="600"
                 fill="#24292f">
-                3.6
+                3.7
             </text>
             
-<text x="508" y="669" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 22 Oct 2026 00:01</text>
+
+            <text
+                x="105"
+                y="676"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Typical gap between commits
+            </text>
+
+            <text
+                x="415"
+                y="676"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                4 min
+            </text>
+            
+
+            <text
+                x="105"
+                y="699"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Typical gap between coding days
+            </text>
+
+            <text
+                x="415"
+                y="699"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                1 day
+            </text>
+            
+
+            <text
+                x="105"
+                y="722"
+                text-anchor="start"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="12"
+                fill="#57606a">
+                Longest pause in a project
+            </text>
+
+            <text
+                x="415"
+                y="722"
+                text-anchor="end"
+                font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+                font-size="13"
+                font-weight="600"
+                fill="#24292f">
+                153 days
+            </text>
+            
+<text x="508" y="738" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 22 Oct 2026 00:12</text>
 </svg>
