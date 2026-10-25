@@ -22,9 +22,13 @@ My usual methodology is to create a master code file with all variants, together
 
 Currently I have two 3D printers, although mostly I use a Bambu P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality Ender-3 Pro connected to OctoPrint, which I love, but the machine itself was too much work to maintain over time. I have a range of IoT devices from the Tuya ecosystem, DECO Wi-Fi, TAPO cameras, RPIs 3 & 4,...
 
+## Learnings
+
+I am currently working on several parallel projects. What I have learnt in the last year is that AI (mostly Claude) has really boosted the amount of progress and fun I can have. As now I code in small bursts, make micro contributions, automate my workflow and test in small increments. Pretty much what 'agile' was supposed to do, except Claude and I are our own cross functional team. I am the product owner/manager/engineer and Claude is the coder/tester/devops. In the past there was a barrier to starting a day of coding, reserving enough time, remembering where I was... Now I can make small pieces of progress any time. Lets see what this looks like in a year. 
+
 ## Activity overview
 
-*Generated daily with my own stats generator. Only used for fun and definitely not 'official' or intended to stress accomplishments or volume so I am reluctant to publish. Mostly I use it for my own entertainment. If you really like this, message me and I might consider making it a 'public repo' for others to use*
+*Generated daily with my own stats generator. Only used for fun and definitely not 'official' or intended to stress accomplishments or volume so I am reluctant to publish. I use it for my own entertainment and a practical purpose. I am experimenting with how AI can alter and boost the process of SW development via my own hobby projects. Hence I am using Claude code, micro-coding and end to end automation of my workflows. So the reason for generating this was to determine the impact of AI on my coding habits in a data driven manner, as well as the qualitiative boost of being a happier coder. Hence here I publish relative numbers not absolute numbers where I can. If you really like this, message me and I might consider making it a 'public repo' for others to use*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-dark.svg?v=dab1ddbadb1f3ec60de36f8004753e51fc19daf58093cf28e88b4afdd1a76855">
