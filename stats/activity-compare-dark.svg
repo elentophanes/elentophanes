@@ -46,8 +46,8 @@
 <text x="183.8" y="131" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#f85149">▼ 14% <tspan fill="#6e7681">(was 211)</tspan></text>
 <text x="271.2" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">12</text>
 <text x="271.2" y="131" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#f85149">▼ 37% <tspan fill="#6e7681">(was 19)</tspan></text>
-<text x="358.8" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">262</text>
-<text x="358.8" y="131" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 39% <tspan fill="#6e7681">(was 189)</tspan></text>
+<text x="358.8" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">266</text>
+<text x="358.8" y="131" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 41% <tspan fill="#6e7681">(was 189)</tspan></text>
 <text x="446.2" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">16</text>
 <text x="446.2" y="131" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 2.0× <tspan fill="#6e7681">(was 8)</tspan></text>
 <line x1="30" y1="134" x2="490" y2="134" stroke="#30363d"/>
@@ -56,8 +56,8 @@
 <text x="183.8" y="165" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 8.6× <tspan fill="#6e7681">(was 49)</tspan></text>
 <text x="271.2" y="152" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">34</text>
 <text x="271.2" y="165" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 3.4× <tspan fill="#6e7681">(was 10)</tspan></text>
-<text x="358.8" y="152" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">470</text>
-<text x="358.8" y="165" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 13.8× <tspan fill="#6e7681">(was 34)</tspan></text>
+<text x="358.8" y="152" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">474</text>
+<text x="358.8" y="165" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 13.9× <tspan fill="#6e7681">(was 34)</tspan></text>
 <text x="446.2" y="152" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">19</text>
 <text x="446.2" y="165" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 4.8× <tspan fill="#6e7681">(was 4)</tspan></text>
 <line x1="30" y1="168" x2="490" y2="168" stroke="#30363d"/>
@@ -66,8 +66,8 @@
 <text x="183.8" y="199" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 19.7× <tspan fill="#6e7681">(was 24)</tspan></text>
 <text x="271.2" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">44</text>
 <text x="271.2" y="199" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 11.0× <tspan fill="#6e7681">(was 4)</tspan></text>
-<text x="358.8" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">504</text>
-<text x="358.8" y="199" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 26.5× <tspan fill="#6e7681">(was 19)</tspan></text>
+<text x="358.8" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">508</text>
+<text x="358.8" y="199" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 26.7× <tspan fill="#6e7681">(was 19)</tspan></text>
 <text x="446.2" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">22</text>
 <text x="446.2" y="199" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 5.5× <tspan fill="#6e7681">(was 4)</tspan></text>
 <line x1="30" y1="202" x2="490" y2="202" stroke="#30363d"/>
@@ -76,8 +76,8 @@
 <text x="183.8" y="233" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 62.0× <tspan fill="#6e7681">(was 8)</tspan></text>
 <text x="271.2" y="220" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">48</text>
 <text x="271.2" y="233" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 12.0× <tspan fill="#6e7681">(was 4)</tspan></text>
-<text x="358.8" y="220" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">523</text>
-<text x="358.8" y="233" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 130.8× <tspan fill="#6e7681">(was 4)</tspan></text>
+<text x="358.8" y="220" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">527</text>
+<text x="358.8" y="233" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 131.8× <tspan fill="#6e7681">(was 4)</tspan></text>
 <text x="446.2" y="220" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#e6edf3">24</text>
 <text x="446.2" y="233" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#3fb950">▲ 12.0× <tspan fill="#6e7681">(was 2)</tspan></text>
 
@@ -91,5 +91,5 @@
             Each period compared with the same number of days just before it
         </text>
         
-<text x="508" y="267" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 25 Oct 2026 09:41</text>
+<text x="508" y="267" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 25 Oct 2026 12:27</text>
 </svg>
