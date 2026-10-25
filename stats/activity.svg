@@ -483,10 +483,10 @@
         </clipPath>
         
 <g clip-path="url(#language-bar)">
-<rect x="105.00" y="450" width="180.49" height="8" fill="#e5cd45"/>
-<rect x="285.49" y="450" width="124.58" height="8" fill="#3572A5"/>
-<rect x="410.07" y="450" width="3.70" height="8" fill="#f34b7d"/>
-<rect x="413.77" y="450" width="1.23" height="8" fill="#89e051"/>
+<rect x="105.00" y="450" width="183.16" height="8" fill="#e5cd45"/>
+<rect x="288.16" y="450" width="122.01" height="8" fill="#3572A5"/>
+<rect x="410.18" y="450" width="3.62" height="8" fill="#f34b7d"/>
+<rect x="413.79" y="450" width="1.21" height="8" fill="#89e051"/>
 </g>
 
         <circle
@@ -503,7 +503,7 @@
             font-size="11"
             fill="#24292f">
             OpenSCAD
-            <tspan fill="#57606a">58.2%</tspan>
+            <tspan fill="#57606a">59.1%</tspan>
         </text>
             
 
@@ -521,7 +521,7 @@
             font-size="11"
             fill="#24292f">
             Python
-            <tspan fill="#57606a">40.2%</tspan>
+            <tspan fill="#57606a">39.4%</tspan>
         </text>
             
 
@@ -560,5 +560,5 @@
             <tspan fill="#57606a">0.4%</tspan>
         </text>
             
-<text x="508" y="525" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 25 Oct 2026 12:38</text>
+<text x="508" y="525" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 25 Oct 2026 21:54</text>
 </svg>
