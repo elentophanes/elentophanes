@@ -121,7 +121,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                ▲ 63× vs before
+                ▲ 64× vs before
             </text>
             
 
@@ -304,7 +304,7 @@
 <rect x="289.83" y="402.92" width="17.83" height="7.08" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="341.50" y="392.08" width="17.83" height="17.92" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="367.33" y="370.00" width="17.83" height="40.00" rx="1.5" fill="#3fb950" fill-opacity="1"/>
-<rect x="393.17" y="377.92" width="17.83" height="32.08" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="393.17" y="377.08" width="17.83" height="32.92" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 
         <text
             x="117.9"
@@ -461,10 +461,10 @@
         </clipPath>
         
 <g clip-path="url(#language-bar)">
-<rect x="105.00" y="450" width="169.02" height="8" fill="#e5cd45"/>
-<rect x="274.02" y="450" width="136.53" height="8" fill="#3572A5"/>
-<rect x="410.55" y="450" width="3.34" height="8" fill="#f34b7d"/>
-<rect x="413.89" y="450" width="1.11" height="8" fill="#89e051"/>
+<rect x="105.00" y="450" width="167.22" height="8" fill="#e5cd45"/>
+<rect x="272.22" y="450" width="138.37" height="8" fill="#3572A5"/>
+<rect x="410.60" y="450" width="3.30" height="8" fill="#f34b7d"/>
+<rect x="413.90" y="450" width="1.10" height="8" fill="#89e051"/>
 </g>
 
         <circle
@@ -481,7 +481,7 @@
             font-size="11"
             fill="#e6edf3">
             OpenSCAD
-            <tspan fill="#6e7681">54.5%</tspan>
+            <tspan fill="#6e7681">53.9%</tspan>
         </text>
             
 
@@ -499,7 +499,7 @@
             font-size="11"
             fill="#e6edf3">
             Python
-            <tspan fill="#6e7681">44.0%</tspan>
+            <tspan fill="#6e7681">44.6%</tspan>
         </text>
             
 
@@ -538,5 +538,5 @@
             <tspan fill="#6e7681">0.4%</tspan>
         </text>
             
-<text x="508" y="525" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 30 Oct 2026 14:38</text>
+<text x="508" y="525" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 30 Oct 2026 16:28</text>
 </svg>
