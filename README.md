@@ -68,7 +68,6 @@ I am currently working on several parallel projects. What I have learnt in the l
 <!--
 **elentophanes/elentophanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity.svg?v=00df36664849a657f5f1d1c78fcf7a4831dc55044067f3cf9c9bf7852f23b2b4" alt="Project activity">
 
 Here are some ideas to get you started:
 
