@@ -77,7 +77,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#24292f">
-                5 days ago
+                today
             </text>
             
 
@@ -181,22 +181,23 @@
         
 <rect x="106.00" y="224.77" width="10.92" height="23.23" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="118.92" y="247.57" width="10.92" height="0.43" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="196.42" y="245.85" width="10.92" height="2.15" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="209.33" y="232.52" width="10.92" height="15.48" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="183.50" y="246.28" width="10.92" height="1.72" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="196.42" y="244.56" width="10.92" height="3.44" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="209.33" y="232.09" width="10.92" height="15.91" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="222.25" y="231.66" width="10.92" height="16.34" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="235.17" y="239.83" width="10.92" height="8.17" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="248.08" y="234.24" width="10.92" height="13.76" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="261.00" y="244.13" width="10.92" height="3.87" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="273.92" y="241.12" width="10.92" height="6.88" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="286.83" y="244.56" width="10.92" height="3.44" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="299.75" y="240.69" width="10.92" height="7.31" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="312.67" y="242.41" width="10.92" height="5.59" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="325.58" y="241.12" width="10.92" height="6.88" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="261.00" y="242.84" width="10.92" height="5.16" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="273.92" y="240.26" width="10.92" height="7.74" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="286.83" y="243.27" width="10.92" height="4.73" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="299.75" y="240.26" width="10.92" height="7.74" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="312.67" y="241.98" width="10.92" height="6.02" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="325.58" y="239.40" width="10.92" height="8.60" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="338.50" y="240.69" width="10.92" height="7.31" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="351.42" y="232.95" width="10.92" height="15.05" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="364.33" y="241.12" width="10.92" height="6.88" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="377.25" y="231.23" width="10.92" height="16.77" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="390.17" y="210.58" width="10.92" height="37.42" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="351.42" y="230.37" width="10.92" height="17.63" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="364.33" y="240.69" width="10.92" height="7.31" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="377.25" y="230.37" width="10.92" height="17.63" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="390.17" y="208.43" width="10.92" height="39.57" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="403.08" y="208.00" width="10.92" height="40.00" rx="1.5" fill="#1a7f37" fill-opacity="1"/>
 
         <text
@@ -424,7 +425,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#24292f">
-                16%
+                15%
             </text>
             
 
@@ -490,7 +491,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#24292f">
-                21:18
+                21:07
             </text>
             
 
@@ -512,7 +513,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#24292f">
-                24
+                26
             </text>
             
 
@@ -578,7 +579,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#24292f">
-                27% of commits
+                26% of commits
             </text>
             
 
@@ -622,7 +623,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#24292f">
-                3.9
+                3.8
             </text>
             
 
@@ -691,5 +692,5 @@
                 153 days
             </text>
             
-<text x="508" y="715" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 30 Oct 2026 14:23</text>
+<text x="508" y="715" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 30 Oct 2026 14:38</text>
 </svg>
