@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was Basic and Assembler on 8-bit machines 🌈, followed by Pascal. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
+I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was Basic and Assembler on 8-bit machines 🌈, followed by Pascal and Visual Basic. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
 
 When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include Home Assistant, IP networking, WiFi 🛜, model railways 🚂, Raspberry Pi, ESP32, Flight tracking ✈️,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
 
@@ -10,7 +10,7 @@ When I 3D print I like to develop customisable useful objects. To achieve this I
 
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-My%20models-00AE42)](https://makerworld.com/en/@Elentophanes)
 
-In terms of licence, if the code is for creating 3D prints, the printed outputs are usually CC BY-NC-ND licensed. The code to generate the models I typically keep in a private repo to avoid licensing issues and people selling my prints.
+In terms of license, if the code is for creating 3D prints, the printed outputs are usually CC BY-NC-ND licensed. The code to generate the models I typically keep in a private repo to avoid licensing issues and people selling my prints, or I may use Polyform Non-Commercial or Dual licensing. This will be clear in any repo. While I am a fan of FOSS the world is changing so now I am more on the page of 'source available' and a clear license helps all involved.
 
 ## How I work
 
