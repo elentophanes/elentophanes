@@ -42,28 +42,28 @@
 <text x="446.2" y="82" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="700" fill="#57606a">PROJECTS</text>
 <line x1="30" y1="100" x2="490" y2="100" stroke="#d0d7de"/>
 <text x="30" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#57606a">Last month</text>
-<text x="183.8" y="124" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#cf222e">▼ 9%</text>
+<text x="183.8" y="124" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#cf222e">▼ 5%</text>
 <text x="271.2" y="124" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#cf222e">▼ 42%</text>
-<text x="358.8" y="124" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 74%</text>
-<text x="446.2" y="124" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 14%</text>
+<text x="358.8" y="124" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 78%</text>
+<text x="446.2" y="124" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 29%</text>
 <line x1="30" y1="134" x2="490" y2="134" stroke="#d0d7de"/>
 <text x="30" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#57606a">Last 3 months</text>
-<text x="183.8" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 9.2×</text>
+<text x="183.8" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 9.4×</text>
 <text x="271.2" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 3.7×</text>
-<text x="358.8" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 16.2×</text>
-<text x="446.2" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 5.5×</text>
+<text x="358.8" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 16.4×</text>
+<text x="446.2" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 6.0×</text>
 <line x1="30" y1="168" x2="490" y2="168" stroke="#d0d7de"/>
 <text x="30" y="190" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#57606a">Last 6 months</text>
-<text x="183.8" y="192" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 20.9×</text>
+<text x="183.8" y="192" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 21.2×</text>
 <text x="271.2" y="192" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 11.8×</text>
-<text x="358.8" y="192" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 30.8×</text>
-<text x="446.2" y="192" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 6.2×</text>
+<text x="358.8" y="192" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 31.2×</text>
+<text x="446.2" y="192" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 6.8×</text>
 <line x1="30" y1="202" x2="490" y2="202" stroke="#d0d7de"/>
 <text x="30" y="224" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#57606a">Last 12 months</text>
-<text x="183.8" y="226" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 65.6×</text>
+<text x="183.8" y="226" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 66.8×</text>
 <text x="271.2" y="226" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 12.8×</text>
-<text x="358.8" y="226" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 151.0×</text>
-<text x="446.2" y="226" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 13.5×</text>
+<text x="358.8" y="226" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 152.8×</text>
+<text x="446.2" y="226" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#1a7f37">▲ 14.5×</text>
 
         <text
             x="260"
@@ -75,5 +75,5 @@
             Each period compared with the same number of days just before it
         </text>
         
-<text x="508" y="267" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 31 Oct 2026 10:55</text>
+<text x="508" y="267" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 31 Oct 2026 13:27</text>
 </svg>
