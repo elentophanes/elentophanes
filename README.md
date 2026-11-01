@@ -16,7 +16,7 @@ No reference to 3rd parties suggests any endorsement by them.
 
 ## How I work
 
-I code for different purposes, but one of the major reasons is to enhance my 3D printing hobby. I've really taken to AI-boosted 🤖 coding for this, using a combo of Claude <img src="icons/claude.png" width="24" height="24" alt="Claude"> and ChatGPT <img src="icons/chatgpt.png" width="24" height="24" alt="ChatGPT">. My productivity has leapt upwards, focusing on measurable outcomes in physical models, not code.
+I code for different purposes, but one of the major reasons is to enhance my 3D printing hobby. I've really taken to AI-boosted 🤖 coding for this, using a combo of Claude <img src="icons/claude.png" width="24" height="24" alt="Claude"> and ChatGPT <img src="icons/chatgpt-white.png" width="24" height="24" alt="ChatGPT">. My productivity has leapt upwards, focusing on measurable outcomes in physical models, not code.
 
 For the 3D-printing projects I test and check the output rigorously, including print tests at several interim stages and reading the code. Vibe coding does not work in this scenario as the tools are quite creative in their visualisations. I also try to test all my other projects carefully and I tend to do micro releases and test in increments.
 
