@@ -26,7 +26,7 @@ My usual methodology is to create a master code file with all variants, together
 
 Currently I have two 3D printers, although mostly I use a Bambu Lab <img src="icons/bambulabwhite.png" width="24" height="24" alt="Bambu Lab"> P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality <img src="icons/creality.png" width="24" height="24" alt="Creality"> Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time.
 
-I have a range of IoT devices from the Tuya <img src="icons/tuya.png" width="24" height="24" alt="Tuya"> ecosystem, Deco <img src="icons/deco-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/deco.png#gh-light-mode-only" width="24" height="24" alt=""> Wi-Fi Wi‑Fi Alliance <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Wi-fi_alliance_logo.png" width="24" alt="">, Tapo <img src="icons/tapo.png" width="24" height="24" alt="Tapo"> cameras, RPIs 3 & 4,...
+I have a range of IoT devices from the Tuya <img src="icons/tuya.png" width="24" height="24" alt="Tuya"> ecosystem, Deco <img src="icons/deco-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/deco.png#gh-light-mode-only" width="24" height="24" alt=""> Wi-Fi <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Wi-fi_alliance_logo.png" width="24" alt="">, Tapo <img src="icons/tapo.png" width="24" height="24" alt="Tapo"> cameras, RPIs 3 & 4,...
 
 ## Learnings
 
