@@ -10,7 +10,7 @@ When I 3D print I like to develop customisable useful objects. To achieve this I
 
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-My%20models-00AE42)](https://makerworld.com/en/@Elentophanes)
 
-In terms of license, if the code is for creating 3D prints, the printed outputs are usually CC BY-NC-ND licensed. The code to generate the models I typically keep in a private repo to avoid licensing issues and people selling my prints, or I may use Polyform Non-Commercial or Dual licensing. This will be clear in any repo. While I am a fan of FOSS the world is changing so now I am more on the page of 'source available' and a clear license helps all involved.
+In terms of license, if the code is for creating 3D prints, the printed outputs are usually CC BY-NC-ND [![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) licensed. The code to generate the models I typically keep in a private repo to avoid licensing issues and people selling my prints, or I may use Polyform Non-Commercial or Dual licensing. This will be clear in any repo. While I am a fan of FOSS the world is changing so now I am more on the page of 'source available' and a clear license helps all involved.
 
 No reference to 3rd parties suggests any endorsement by them.
 
