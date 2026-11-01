@@ -2,7 +2,7 @@
 
 I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was BASIC <picture><source media="(prefers-color-scheme: dark)" srcset="icons/basic-white.png"><img src="icons/basic.png" width="24" height="24" alt="BASIC"></picture> and Assembler on 8-bit machines 🌈, followed by Pascal <picture><source media="(prefers-color-scheme: dark)" srcset="icons/pascal-white.png"><img src="icons/pascal.png" width="24" height="24" alt="Pascal"></picture> and Visual Basic <picture><source media="(prefers-color-scheme: dark)" srcset="icons/visual-basic-white.png"><img src="icons/visual-basic.png" width="24" height="24" alt="Visual Basic"></picture>. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
 
-When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include Home Assistant <img src="icons/home-assistant.png" width="24" height="24" alt="Home Assistant">, IP networking, WiFi 🛜, model railways 🚂, Raspberry Pi <img src="icons/raspberry-pi.png" width="24" height="24" alt="Raspberry Pi">, ESP32 <img src="icons/ESP32.png" width="24" height="24" alt="ESP32">, Flight tracking ✈️,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
+When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include Home Assistant <img src="icons/home-assistant.png" width="24" height="24" alt="Home Assistant">, IP networking, WiFi 🛜, model railways 🚂, Raspberry Pi <img src="icons/raspberry-pi.png" width="24" height="24" alt="Raspberry Pi">, ESP32 <img src="icons/ESP32.png" width="24" height="24" alt="ESP32">, Flight tracking ✈️ ,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
 
 ## What I make
 
@@ -39,6 +39,7 @@ I am the product owner/manager/engineer and Claude is the coder/tester/devops. I
 *Generated daily with my own stats generator. Only used for fun and definitely not 'official' or intended to stress accomplishments or volume so I am reluctant to publish. I use it for my own entertainment and a practical purpose. I am experimenting with how AI can alter and boost the process of SW development via my own hobby projects. Hence I am using Claude code, micro-coding and end to end automation of my workflows.
 
 So the reason for generating this was to determine the impact of AI on my coding habits in a data driven manner, as well as the qualitiative boost of being a happier coder. Hence here I publish relative numbers not absolute numbers where I can. If you really like this, message me and I might consider making it a 'public repo' for others to use*
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-dark.svg?v=04979fa322776adc0909013c6e3ee6484cd05177eb2b85a14e4c6dc4f9750132">
