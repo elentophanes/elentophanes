@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was Basic and Assembler on 8-bit machines 🌈, followed by Pascal and Visual Basic. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
+I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was Basic ![BASIC](icons/basic.svg) and Assembler on 8-bit machines 🌈, followed by Pascal ![Pascal](icons/pascal.svg) and Visual Basic. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
 
-When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include Home Assistant, IP networking, WiFi 🛜, model railways 🚂, Raspberry Pi, ESP32, Flight tracking ✈️,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
+When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include ![Home Assistant](icons/home-assistant.svg), IP networking, WiFi 🛜, model railways 🚂, ![Raspberry Pi](icons/raspberry-pi.svg), ESP32, Flight tracking ✈️,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
 
 ## What I make
 
