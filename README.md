@@ -6,7 +6,7 @@ When at home I have many hobbies and coding is now one of them. My hobbies inclu
 
 ## What I make
 
-When I 3D print I like to develop customisable useful objects. To achieve this I work with OpenSCAD to generate parameterised 🛠️ models. The end consumer of a model can then adjust the output to produce what they need. The models are typically made with useful features, selectable content 📋, error checked and auto scaled 📐. I print test all designs, although there are often so many variants I can't test them all 🤷‍♂️.
+When I 3D print I like to develop customisable useful objects. To achieve this I work with OpenSCAD to generate parameterised 🛠️ models. The end consumer of a model can then adjust the output to produce what they need. The models are typically made with useful features, selectable content 📋, error checked ⚠️ and auto scaled 📐. I print test all designs, although there are often so many variants I can't test them all 🤷‍♂️.
 
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-My%20models-00AE42)](https://makerworld.com/en/@Elentophanes)
 
