@@ -6,7 +6,7 @@ When at home I have many hobbies and coding is now one of them. My hobbies inclu
 
 ## What I make
 
-When I 3D print I like to develop customisable useful objects. To achieve this I work with OpenSCAD to generate parameterised 🛠️ models. The end consumer of a model can then adjust the output to produce what they need. The models are typically made with useful features, selectable content 📋, error checked ⚠️ and auto scaled 📐. I print test all designs, although there are often so many variants I can't test them all 🤷‍♂️.
+When I 3D print I like to develop customisable useful objects. To achieve this I work with OpenSCAD <img src="icons/openscad.png" width="32" height="32" alt="OpenSCAD"> to generate parameterised 🛠️ models. The end consumer of a model can then adjust the output to produce what they need. The models are typically made with useful features, selectable content 📋, error checked ⚠️ and auto scaled 📐. I print test all designs, although there are often so many variants I can't test them all 🤷‍♂️.
 
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-My%20models-00AE42)](https://makerworld.com/en/@Elentophanes)
 
@@ -20,11 +20,11 @@ My usual methodology is to create a master code file with all variants, together
 
 ## Gear
 
-Currently I have two 3D printers, although mostly I use a Bambu P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality Ender-3 Pro connected to OctoPrint, which I love, but the machine itself was too much work to maintain over time. I have a range of IoT devices from the Tuya ecosystem, DECO Wi-Fi, TAPO cameras, RPIs 3 & 4,...
+Currently I have two 3D printers, although mostly I use a Bambu <img src="icons/bambu-lab.png" width="32" height="32" alt="Bambu Lab">  P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="32" height="32" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time. I have a range of IoT devices from the Tuya ecosystem, DECO Wi-Fi, TAPO cameras, RPIs 3 & 4,...
 
 ## Learnings
 
-I am currently working on several parallel projects. What I have learnt in the last year is that AI (mostly Claude) has really boosted the amount of progress and fun I can have. As now I code in small bursts, make micro contributions, automate my workflow and test in small increments. Pretty much what 'agile' was supposed to do, except Claude and I are our own cross functional team. I am the product owner/manager/engineer and Claude is the coder/tester/devops. In the past there was a barrier to starting a day of coding, reserving enough time, remembering where I was... Now I can make small pieces of progress any time. Lets see what this looks like in a year. 
+I am currently working on several parallel projects. What I have learnt in the last year is that AI (mostly Claude <img src="icons/claude.png" width="32" height="32" alt="Claude">) has really boosted the amount of progress and fun I can have. As now I code in small bursts, make micro contributions, automate my workflow and test in small increments. Pretty much what 'agile' was supposed to do, except Claude and I are our own cross functional team. I am the product owner/manager/engineer and Claude is the coder/tester/devops. In the past there was a barrier to starting a day of coding, reserving enough time, remembering where I was... Now I can make small pieces of progress any time. Lets see what this looks like in a year. 
 
 ## Activity overview
 
