@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was <picture><source media="(prefers-color-scheme: dark)" srcset="icons/basic-white.png"><img src="icons/basic.png" width="24" height="24" alt="BASIC"></picture> and Assembler on 8-bit machines 🌈, followed by <picture><source media="(prefers-color-scheme: dark)" srcset="icons/pascal-white.png"><img src="icons/pascal.png" width="24" height="24" alt="Pascal"></picture> and <picture><source media="(prefers-color-scheme: dark)" srcset="icons/visual-basic-white.png"><img src="icons/visual-basic.png" width="24" height="24" alt="Visual Basic"></picture>. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
+I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was BASIC <picture><source media="(prefers-color-scheme: dark)" srcset="icons/basic-white.png"><img src="icons/basic.png" width="24" height="24" alt="BASIC"></picture> and Assembler on 8-bit machines 🌈, followed by Pascal <picture><source media="(prefers-color-scheme: dark)" srcset="icons/pascal-white.png"><img src="icons/pascal.png" width="24" height="24" alt="Pascal"></picture> and Visual Basic <picture><source media="(prefers-color-scheme: dark)" srcset="icons/visual-basic-white.png"><img src="icons/visual-basic.png" width="24" height="24" alt="Visual Basic"></picture>. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
 
 When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include Home Assistant <img src="icons/home-assistant.png" width="24" height="24" alt="Home Assistant">, IP networking, WiFi 🛜, model railways 🚂, Raspberry Pi <img src="icons/raspberry-pi.png" width="24" height="24" alt="Raspberry Pi">, ESP32 <img src="icons/ESP32.png" width="24" height="24" alt="ESP32">, Flight tracking ✈️,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
 
@@ -24,9 +24,9 @@ My usual methodology is to create a master code file with all variants, together
 
 ## Gear
 
-Currently I have two 3D printers, although mostly I use a <picture><source media="(prefers-color-scheme: dark)" srcset="icons/bambulabwhite.png"><img src="icons/bambu-lab.png" width="24" height="24" alt="Bambu Lab"></picture> P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a <picture><source media="(prefers-color-scheme: dark)" srcset="icons/creality-white.png"><img src="icons/creality.png" width="24" height="24" alt="Creality"></picture> Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time.
+Currently I have two 3D printers, although mostly I use a Bambu Lab <picture><source media="(prefers-color-scheme: dark)" srcset="icons/bambulabwhite.png"><img src="icons/bambu-lab.png" width="24" height="24" alt="Bambu Lab"></picture> P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality <picture><source media="(prefers-color-scheme: dark)" srcset="icons/creality-white.png"><img src="icons/creality.png" width="24" height="24" alt="Creality"></picture> Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time.
 
-I have a range of IoT devices from the <img src="icons/tuya.png" width="24" height="24" alt="Tuya"> ecosystem, <picture><source media="(prefers-color-scheme: dark)" srcset="icons/deco-white.png"><img src="icons/deco.png" width="24" height="24" alt="Deco"></picture> Wi-Fi, <picture><source media="(prefers-color-scheme: dark)" srcset="icons/tapo-white.png"><img src="icons/tapo.png" width="24" height="24" alt="Tapo"></picture> cameras, RPIs 3 & 4,...
+I have a range of IoT devices from the Tuya <img src="icons/tuya.png" width="24" height="24" alt="Tuya"> ecosystem, Deco <picture><source media="(prefers-color-scheme: dark)" srcset="icons/deco-white.png"><img src="icons/deco.png" width="24" height="24" alt="Deco"></picture> Wi-Fi, Tapo <picture><source media="(prefers-color-scheme: dark)" srcset="icons/tapo-white.png"><img src="icons/tapo.png" width="24" height="24" alt="Tapo"></picture> cameras, RPIs 3 & 4,...
 
 ## Learnings
 
@@ -40,7 +40,6 @@ I am the product owner/manager/engineer and Claude is the coder/tester/devops. I
 
 So the reason for generating this was to determine the impact of AI on my coding habits in a data driven manner, as well as the qualitiative boost of being a happier coder. Hence here I publish relative numbers not absolute numbers where I can. If you really like this, message me and I might consider making it a 'public repo' for others to use*
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-dark.svg?v=04979fa322776adc0909013c6e3ee6484cd05177eb2b85a14e4c6dc4f9750132">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=78cc344f43762d9c5f91832281b234f8a18fd7a8e9f2b932ed9cf31a6541c4db">
@@ -51,33 +50,28 @@ So the reason for generating this was to determine the impact of AI on my coding
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=90825e618fdd32bff5f6faf38d99574de365125a9fac0621d478e8d403388cf0">
   <img alt="Coding habits" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=90825e618fdd32bff5f6faf38d99574de365125a9fac0621d478e8d403388cf0">
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-dark.svg?v=534afa3e35783b7a271c3488ce17a1df532baeaba4c8216a81514b30731c82eb">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-light.svg?v=e3cb6c3854cc7acc1a1dab7ac4ef558a36c0b8d68ef85b8bce883df6d9f11a6c">
   <img alt="Fun things" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-light.svg?v=e3cb6c3854cc7acc1a1dab7ac4ef558a36c0b8d68ef85b8bce883df6d9f11a6c">
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-dark.svg?v=b810dc3b207be5468d76ad8af373d02e8ec1e6b97eb9a8b11ca80ab511e64100">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=2b42c5f8b569179e4df898e3c767a7934442260a9185bfe38a9c8a3b18ec6c6b">
   <img alt="Most active" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=2b42c5f8b569179e4df898e3c767a7934442260a9185bfe38a9c8a3b18ec6c6b">
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-dark.svg?v=670b857b2c8809631b211ef49a2e39da00aedaf1447b03feab8a23a2843ca013">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=b10bb7f8392f8ab8b1a320dbd9b7313f150c7f0cbfc374b49ccd35635aee906e">
   <img alt="Compared with before" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=b10bb7f8392f8ab8b1a320dbd9b7313f150c7f0cbfc374b49ccd35635aee906e">
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-review-dark.svg?v=09cca6c641e6a03668a32c59a6eaad7ef7167eb33db8cc05942918b9758df703">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-review-light.svg?v=09cca6c641e6a03668a32c59a6eaad7ef7167eb33db8cc05942918b9758df703">
   <img alt="Year in review" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-review-light.svg?v=09cca6c641e6a03668a32c59a6eaad7ef7167eb33db8cc05942918b9758df703">
 </picture>
-
 <!--
-**elentophanes/elentophanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**elentophanes/elentophanes** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
