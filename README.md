@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was BASIC <img src="icons/basic-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/basic.png#gh-light-mode-only" width="24" height="24" alt=""> and Assembler on 8-bit machines 🌈, followed by Pascal <img src="icons/pascal-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/pascal.png#gh-light-mode-only" width="24" height="24" alt=""> and Visual Basic <img src="icons/visual-basic-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/visual-basic.png#gh-light-mode-only" width="24" height="24" alt="">. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
+I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was BASIC <img src="icons/basic.png" width="24" height="24" alt="BASIC"> and Assembler on 8-bit machines 🌈, followed by Pascal <img src="icons/pascal.png" width="24" height="24" alt="Pascal"> and Visual Basic <img src="icons/visual-basic.png" width="24" height="24" alt="Visual Basic">. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
 
 When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include Home Assistant <img src="icons/home-assistant.png" width="24" height="24" alt="Home Assistant">, IP networking, WiFi 🛜, model railways 🚂, Raspberry Pi <img src="icons/raspberry-pi.png" width="24" height="24" alt="Raspberry Pi">, ESP32 <img src="icons/ESP32.png" width="24" height="24" alt="ESP32">, Flight tracking ✈️,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
 
@@ -16,17 +16,17 @@ No reference to 3rd parties suggests any endorsement by them.
 
 ## How I work
 
-I code for different purposes, but one of the major reasons is to enhance my 3D printing hobby. I've really taken to AI-boosted 🤖 coding for this, using a combo of Claude <img src="icons/claude.png" width="24" height="24" alt="Claude"> and ChatGPT <img src="icons/chatgpt-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/chatgpt.png#gh-light-mode-only" width="24" height="24" alt="">. My productivity has leapt upwards, focusing on measurable outcomes in physical models, not code.
+I code for different purposes, but one of the major reasons is to enhance my 3D printing hobby. I've really taken to AI-boosted 🤖 coding for this, using a combo of Claude <img src="icons/claude.png" width="24" height="24" alt="Claude"> and ChatGPT <img src="icons/chatgpt.png" width="24" height="24" alt="ChatGPT">. My productivity has leapt upwards, focusing on measurable outcomes in physical models, not code.
 
 For the 3D-printing projects I test and check the output rigorously, including print tests at several interim stages and reading the code. Vibe coding does not work in this scenario as the tools are quite creative in their visualisations. I also try to test all my other projects carefully and I tend to do micro releases and test in increments.
 
-My usual methodology is to create a master code file with all variants, together with Python <img src="icons/python.png" width="24" height="24" alt="Python"> + config files + <img src="icons/toml-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/toml.png#gh-light-mode-only" width="24" height="24" alt=""> to create simpler sub-variants from the master and to pass parameters between dependent parts. That way I can run a master branch and keep the derivatives up to date.
+My usual methodology is to create a master code file with all variants, together with Python <img src="icons/python.png" width="24" height="24" alt="Python"> + config files + <img src="icons/toml.png" width="24" height="24" alt="TOML"> to create simpler sub-variants from the master and to pass parameters between dependent parts. That way I can run a master branch and keep the derivatives up to date.
 
 ## Gear
 
-Currently I have two 3D printers, although mostly I use a Bambu Lab <img src="icons/bambulabwhite.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/bambu-lab.png#gh-light-mode-only" width="24" height="24" alt=""> P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality <img src="icons/creality-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/creality.png#gh-light-mode-only" width="24" height="24" alt=""> Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time.
+Currently I have two 3D printers, although mostly I use a Bambu Lab <img src="icons/bambu-lab.png" width="24" height="24" alt="Bambu Lab"> P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality <img src="icons/creality.png" width="24" height="24" alt="Creality"> Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time.
 
-I have a range of IoT devices from the Tuya <img src="icons/tuya-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/tuya.png#gh-light-mode-only" width="24" height="24" alt=""> ecosystem, Deco <img src="icons/deco-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/deco.png#gh-light-mode-only" width="24" height="24" alt=""> Wi-Fi, Tapo <img src="icons/tapo-white.png#gh-dark-mode-only" width="24" height="24" alt=""><img src="icons/tapo.png#gh-light-mode-only" width="24" height="24" alt=""> cameras, RPIs 3 & 4,...
+I have a range of IoT devices from the Tuya <img src="icons/tuya.png" width="24" height="24" alt="Tuya"> ecosystem, Deco <img src="icons/deco.png" width="24" height="24" alt="Deco"> Wi-Fi, Tapo <img src="icons/tapo.png" width="24" height="24" alt="Tapo"> cameras, RPIs 3 & 4,...
 
 ## Learnings
 
@@ -84,5 +84,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
