@@ -20,11 +20,11 @@ I code for different purposes, but one of the major reasons is to enhance my 3D 
 
 For the 3D-printing projects I test and check the output rigorously, including print tests at several interim stages and reading the code. Vibe coding does not work in this scenario as the tools are quite creative in their visualisations. I also try to test all my other projects carefully and I tend to do micro releases and test in increments.
 
-My usual methodology is to create a master code file with all variants, together with Python <img src="icons/python.png" width="24" height="24" alt="Python"> + config files + <img src="icons/toml.png" width="24" height="24" alt="TOML"> to create simpler sub-variants from the master and to pass parameters between dependent parts. That way I can run a master branch and keep the derivatives up to date.
+My usual methodology is to create a master code file with all variants, together with Python <img src="icons/python.png" width="24" height="24" alt="Python"> + config files + TOML <img src="icons/toml.png" width="24" height="24" alt="TOML"> to create simpler sub-variants from the master and to pass parameters between dependent parts. That way I can run a master branch and keep the derivatives up to date.
 
 ## Gear
 
-Currently I have two 3D printers, although mostly I use a Bambu Lab <img src="icons/bambu-lab.png" width="24" height="24" alt="Bambu Lab"> P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality <img src="icons/creality.png" width="24" height="24" alt="Creality"> Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time.
+Currently I have two 3D printers, although mostly I use a Bambu Lab <img src="icons/bambulabwhite.png" width="24" height="24" alt="Bambu Lab"> P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality <img src="icons/creality.png" width="24" height="24" alt="Creality"> Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time.
 
 I have a range of IoT devices from the Tuya <img src="icons/tuya.png" width="24" height="24" alt="Tuya"> ecosystem, Deco <img src="icons/deco.png" width="24" height="24" alt="Deco"> Wi-Fi, Tapo <img src="icons/tapo.png" width="24" height="24" alt="Tapo"> cameras, RPIs 3 & 4,...
 
