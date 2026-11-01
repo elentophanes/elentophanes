@@ -20,7 +20,7 @@ My usual methodology is to create a master code file with all variants, together
 
 ## Gear
 
-Currently I have two 3D printers, although mostly I use a Bambu <img src="icons/bambu-lab.png" width="24" height="24" alt="Bambu Lab">  P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time. I have a range of IoT devices from the Tuya ecosystem, DECO Wi-Fi, TAPO cameras, RPIs 3 & 4,...
+Currently I have two 3D printers, although mostly I use a Bambu <img src="icons/bambulabwhite.png" width="24" height="24" alt="Bambu Lab">  P1S with AMS as it is the most reliable, so I can focus on designing, not tinkering with the machine. I used to use a Creality Ender-3 Pro connected to OctoPrint <img src="icons/octoprint.png" width="24" height="24" alt="OctoPrint">, which I love, but the machine itself was too much work to maintain over time. I have a range of IoT devices from the Tuya ecosystem, DECO Wi-Fi, TAPO cameras, RPIs 3 & 4,...
 
 ## Learnings
 
