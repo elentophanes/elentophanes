@@ -381,7 +381,7 @@
 <rect x="315.67" y="490.08" width="17.83" height="17.92" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="341.50" y="468.00" width="17.83" height="40.00" rx="1.5" fill="#1a7f37" fill-opacity="1"/>
 <rect x="367.33" y="469.67" width="17.83" height="38.33" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="393.17" y="483.21" width="17.83" height="24.79" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="393.17" y="482.58" width="17.83" height="25.42" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 
         <text
             x="117.9"
@@ -538,10 +538,10 @@
         </clipPath>
         
 <g clip-path="url(#language-bar)">
-<rect x="105.00" y="548" width="162.02" height="8" fill="#e5cd45"/>
-<rect x="267.02" y="548" width="143.75" height="8" fill="#3572A5"/>
-<rect x="410.78" y="548" width="3.15" height="8" fill="#f34b7d"/>
-<rect x="413.92" y="548" width="1.05" height="8" fill="#89e051"/>
+<rect x="105.00" y="548" width="161.21" height="8" fill="#e5cd45"/>
+<rect x="266.21" y="548" width="144.59" height="8" fill="#3572A5"/>
+<rect x="410.80" y="548" width="3.13" height="8" fill="#f34b7d"/>
+<rect x="413.93" y="548" width="1.04" height="8" fill="#89e051"/>
 <rect x="414.97" y="548" width="0.03" height="8" fill="#dc566d"/>
 </g>
 
@@ -559,7 +559,7 @@
             font-size="11"
             fill="#24292f">
             OpenSCAD
-            <tspan fill="#57606a">52.3%</tspan>
+            <tspan fill="#57606a">52.0%</tspan>
         </text>
             
 
@@ -577,7 +577,7 @@
             font-size="11"
             fill="#24292f">
             Python
-            <tspan fill="#57606a">46.4%</tspan>
+            <tspan fill="#57606a">46.6%</tspan>
         </text>
             
 
@@ -634,5 +634,5 @@
             <tspan fill="#57606a">&lt;0.1%</tspan>
         </text>
             
-<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 2 Nov 2026 12:47</text>
+<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 2 Nov 2026 13:59</text>
 </svg>
