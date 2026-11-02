@@ -2,7 +2,7 @@
 
 I'm an electrical engineer ⚡ by training who graduated when computer science and computer engineering were newish. My first coding experience was BASIC <img src="icons/basic.png" width="24" height="24" alt="BASIC"> and Assembler  <img src="icons/cpu.png" width="24" height="24" alt="BASIC"> on 8-bit machines 🌈, followed by Pascal <img src="icons/pascal.png" width="24" height="24" alt="Pascal"> and Visual Basic <img src="icons/visual-basic.png" width="24" height="24" alt="Visual Basic">. These days I've left the world of hardware far behind and focus on software 👨‍💻 with a real-world flavour at work.
 
-When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include Home Assistant <img src="icons/home-assistant.png" width="24" height="24" alt="Home Assistant">, IP networking, WiFi 🛜, model railways 🚂, Raspberry Pi <img src="icons/raspberry-pi.png" width="24" height="24" alt="Raspberry Pi">, ESP32 <img src="icons/ESP32.png" width="24" height="24" alt="ESP32">, Flight tracking ✈️,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
+When at home I have many hobbies and coding is now one of them. My hobbies include 3D printing 🖨️ and IoT. Other activities include Home Assistant <img src="icons/home-assistant.png" width="24" height="24" alt="Home Assistant">, IP networking, WiFi  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Wi-fi_alliance_logo.png" width="24" alt=""> 🛜, model railways 🚂, Raspberry Pi <img src="icons/raspberry-pi.png" width="24" height="24" alt="Raspberry Pi">, ESP32 <img src="icons/ESP32.png" width="24" height="24" alt="ESP32">, Flight tracking ✈️,... I also do outdoor things like boating 🚤, construction 🪚, skiing 🎿 & hiking 🥾.
 
 ## What I make
 
@@ -10,7 +10,7 @@ When I 3D print I like to develop customisable useful objects. To achieve this I
 
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-My%20models-00AE42)](https://makerworld.com/en/@Elentophanes)
 
-In terms of license, if the code is for creating 3D prints, the printed outputs are usually CC BY-NC-ND [![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) licensed. The code to generate the models I typically keep in a private repo to avoid licensing issues and people selling my prints, or I may use Polyform Non-Commercial or Dual licensing. This will be clear in any repo. While I am a fan of FOSS the world is changing so now I am more on the page of 'source available' and a clear license helps all involved.
+In terms of license, if the code is for creating 3D prints, the printed outputs are usually CC BY-NC-ND [![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) licensed. The code to generate the models I typically keep in a private repo to avoid licensing issues and people selling my prints, or I may use Polyform Non-Commercial <img src="icons/ polyform-NC-icon.png" width="24" height="24" alt="OpenSCAD"> or Dual licensing. This will be clear in any repo. While I am a fan of FOSS the world is changing so now I am more on the page of 'source available' and a clear license helps all involved.
 
 No reference to 3rd parties suggests any endorsement by them.
 
