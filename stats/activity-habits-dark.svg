@@ -55,7 +55,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                4 days
+                5 days
             </text>
             
 
@@ -182,7 +182,7 @@
 <rect x="106.00" y="221.57" width="10.92" height="26.43" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="118.92" y="245.57" width="10.92" height="2.43" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="183.50" y="246.61" width="10.92" height="1.39" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="196.42" y="245.22" width="10.92" height="2.78" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="196.42" y="244.87" width="10.92" height="3.13" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="209.33" y="234.43" width="10.92" height="13.57" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="222.25" y="232.00" width="10.92" height="16.00" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="235.17" y="241.39" width="10.92" height="6.61" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
@@ -287,8 +287,8 @@
             stroke="#30363d"
             stroke-width="1"/>
         
-<rect x="109.00" y="322.94" width="36.29" height="15.06" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="153.29" y="326.83" width="36.29" height="11.17" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="109.00" y="322.45" width="36.29" height="15.55" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="153.29" y="326.66" width="36.29" height="11.34" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="197.57" y="334.60" width="36.29" height="3.40" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="241.86" y="329.09" width="36.29" height="8.91" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="286.14" y="325.37" width="36.29" height="12.63" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
@@ -692,5 +692,5 @@
                 153 days
             </text>
             
-<text x="508" y="715" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 2 Nov 2026 16:50</text>
+<text x="508" y="715" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 3 Nov 2026 07:34</text>
 </svg>
