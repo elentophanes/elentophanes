@@ -375,12 +375,12 @@
             stroke="#d0d7de"
             stroke-width="1"/>
         
-<rect x="212.33" y="503.29" width="17.83" height="4.71" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="238.17" y="505.06" width="17.83" height="2.94" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="264.00" y="501.33" width="17.83" height="6.67" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="315.67" y="491.14" width="17.83" height="16.86" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="341.50" y="470.35" width="17.83" height="37.65" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="367.33" y="471.92" width="17.83" height="36.08" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="212.33" y="503.38" width="17.83" height="4.62" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="238.17" y="505.12" width="17.83" height="2.88" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="264.00" y="501.46" width="17.83" height="6.54" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="315.67" y="491.46" width="17.83" height="16.54" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="341.50" y="471.08" width="17.83" height="36.92" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="367.33" y="472.62" width="17.83" height="35.38" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="393.17" y="468.00" width="17.83" height="40.00" rx="1.5" fill="#1a7f37" fill-opacity="1"/>
 
         <text
@@ -538,11 +538,11 @@
         </clipPath>
         
 <g clip-path="url(#language-bar)">
-<rect x="105.00" y="548" width="153.14" height="8" fill="#e5cd45"/>
-<rect x="258.14" y="548" width="152.41" height="8" fill="#3572A5"/>
-<rect x="410.55" y="548" width="2.88" height="8" fill="#f34b7d"/>
-<rect x="413.43" y="548" width="0.96" height="8" fill="#89e051"/>
-<rect x="414.39" y="548" width="0.59" height="8" fill="#012456"/>
+<rect x="105.00" y="548" width="153.06" height="8" fill="#3572A5"/>
+<rect x="258.06" y="548" width="152.43" height="8" fill="#e5cd45"/>
+<rect x="410.49" y="548" width="2.87" height="8" fill="#f34b7d"/>
+<rect x="413.36" y="548" width="0.96" height="8" fill="#89e051"/>
+<rect x="414.31" y="548" width="0.67" height="8" fill="#012456"/>
 <rect x="414.98" y="548" width="0.02" height="8" fill="#8c959f"/>
 </g>
 
@@ -550,7 +550,7 @@
             cx="109.0"
             cy="572"
             r="4"
-            fill="#e5cd45"/>
+            fill="#3572A5"/>
 
         <text
             x="117.0"
@@ -559,7 +559,7 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="11"
             fill="#24292f">
-            OpenSCAD
+            Python
             <tspan fill="#57606a">49.4%</tspan>
         </text>
             
@@ -568,7 +568,7 @@
             cx="264.0"
             cy="572"
             r="4"
-            fill="#3572A5"/>
+            fill="#e5cd45"/>
 
         <text
             x="272.0"
@@ -577,7 +577,7 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="11"
             fill="#24292f">
-            Python
+            OpenSCAD
             <tspan fill="#57606a">49.2%</tspan>
         </text>
             
@@ -653,5 +653,5 @@
             <tspan fill="#57606a">&lt;0.1%</tspan>
         </text>
             
-<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 4 Nov 2026 18:45</text>
+<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 4 Nov 2026 19:06</text>
 </svg>
