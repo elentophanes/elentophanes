@@ -121,7 +121,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                47%
+                46%
             </text>
             
 
@@ -191,8 +191,8 @@
 <rect x="273.92" y="239.93" width="10.92" height="8.07" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="286.83" y="240.27" width="10.92" height="7.73" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="299.75" y="240.61" width="10.92" height="7.39" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="312.67" y="242.29" width="10.92" height="5.71" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="325.58" y="239.60" width="10.92" height="8.40" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="312.67" y="241.28" width="10.92" height="6.72" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="325.58" y="238.25" width="10.92" height="9.75" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="338.50" y="241.28" width="10.92" height="6.72" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="351.42" y="233.21" width="10.92" height="14.79" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="364.33" y="242.29" width="10.92" height="5.71" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
@@ -289,7 +289,7 @@
         
 <rect x="109.00" y="321.64" width="36.29" height="16.36" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="153.29" y="320.67" width="36.29" height="17.33" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="197.57" y="330.23" width="36.29" height="7.77" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="197.57" y="328.93" width="36.29" height="9.07" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="241.86" y="329.09" width="36.29" height="8.91" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="286.14" y="325.37" width="36.29" height="12.63" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="330.43" y="322.78" width="36.29" height="15.22" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
@@ -491,7 +491,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                21:07
+                21:01
             </text>
             
 
@@ -513,7 +513,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                32
+                33
             </text>
             
 
@@ -623,7 +623,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                4.9
+                5
             </text>
             
 
@@ -692,5 +692,5 @@
                 153 days
             </text>
             
-<text x="508" y="715" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 4 Nov 2026 15:31</text>
+<text x="508" y="715" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 4 Nov 2026 17:56</text>
 </svg>
