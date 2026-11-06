@@ -55,7 +55,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                6 days
+                0 days
             </text>
             
 
@@ -77,7 +77,7 @@
                 font-size="13"
                 font-weight="600"
                 fill="#e6edf3">
-                yesterday
+                2 days ago
             </text>
             
 
@@ -692,5 +692,5 @@
                 153 days
             </text>
             
-<text x="508" y="715" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 5 Nov 2026 15:40</text>
+<text x="508" y="715" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 6 Nov 2026 12:24</text>
 </svg>
