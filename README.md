@@ -41,29 +41,29 @@ I am the product owner/manager/engineer and Claude is the coder/tester/devops. I
 So the reason for generating this was to determine the impact of AI on my coding habits in a data driven manner, as well as the qualitiative boost of being a happier coder. Hence here I publish relative numbers not absolute numbers where I can. If you really like this, message me and I might consider making it a 'public repo' for others to use*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-dark.svg?v=3c4e7e0e2e0ce20dcc7cd0d8beb4736fb4d5cb9479465fa532ead86c4ec743ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=89b35e32a0b476dbaa95bd2327c9318de68c20288e25bab8046972abbaf51e69">
-  <img alt="GitHub activity overview" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=89b35e32a0b476dbaa95bd2327c9318de68c20288e25bab8046972abbaf51e69">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-dark.svg?v=b733ccae11cdab797b84dc2bd647bcee03b64756b7fe17172edc6b4fad6f42c1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=c4b41d2ecd5b98d771150f9dc0b61da9c3dadac1276290a9f578eae5e342e192">
+  <img alt="GitHub activity overview" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-light.svg?v=c4b41d2ecd5b98d771150f9dc0b61da9c3dadac1276290a9f578eae5e342e192">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-dark.svg?v=d6ac7672ebe6a74d2aadfa6b7ddc754bc5b4c2cb84ea385eb0c581fa9964c298">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=0b49d328e020975f999bf203d6809aa62788c216d2f848c30b9aafbe729eae85">
-  <img alt="Coding habits" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=0b49d328e020975f999bf203d6809aa62788c216d2f848c30b9aafbe729eae85">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-dark.svg?v=e363fe646741a399db966700168c5754adb5bce1a79b5da60f99b9389537cce9">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=dd3195919db0c43955ed3c1d7981302a4396375d812c7c788df9197559c10da2">
+  <img alt="Coding habits" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-habits-light.svg?v=dd3195919db0c43955ed3c1d7981302a4396375d812c7c788df9197559c10da2">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-dark.svg?v=b6a1ce69ba2e444c212babe746b4b55c14bfd0bcf80c9099ad0de95550837ae7">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-light.svg?v=0ec34832cdceee4a5863b5e6cb7bd4949520cb985d37db11de7c265225f69d09">
-  <img alt="Fun things" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-light.svg?v=0ec34832cdceee4a5863b5e6cb7bd4949520cb985d37db11de7c265225f69d09">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-dark.svg?v=816fe6ea0e84b45342db1dfbabd5a1c9cad2efac42feff89c4298ccff5e56cce">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-light.svg?v=5d5c8c68b77fb28dc06d269bf2d0e08405447d838fa4edd98088bb3228805fac">
+  <img alt="Fun things" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-badges-light.svg?v=5d5c8c68b77fb28dc06d269bf2d0e08405447d838fa4edd98088bb3228805fac">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-dark.svg?v=f52c95cd12c38ea1a062175ea27588b1f4548dd87c4158361f1383838d2db5a3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=5b51270860caba7cdbbb5e061208ab1048b277b456680206170f43e582e74139">
-  <img alt="Most active" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=5b51270860caba7cdbbb5e061208ab1048b277b456680206170f43e582e74139">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-dark.svg?v=19c9ba6be782582fb4bbd524be5da5696883e94083fb5e4fc5d90be9d744822d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=531e168edb8ea7824f639caf1c25d671b384080dee3fdc40ea2f39adc4538e33">
+  <img alt="Most active" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-records-light.svg?v=531e168edb8ea7824f639caf1c25d671b384080dee3fdc40ea2f39adc4538e33">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-dark.svg?v=d6f537027e0ffc802ecc783aeb9c38a8762263ac159c92a71c8dd32278cce0f2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=3d3e77d9c1220a1661e74e96ad1b1d9c6d9b4fb541a9c1d2bc701a43ea6f8930">
-  <img alt="Compared with before" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=3d3e77d9c1220a1661e74e96ad1b1d9c6d9b4fb541a9c1d2bc701a43ea6f8930">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-dark.svg?v=0ef717ee9d54d573605b6e7168440e08f5bc7b6b07c269d951e94e9c01f669b7">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=bfac1610bbac85139e792ed9d8a839fa70c0ca0d3cc844501b7b12a5f2450343">
+  <img alt="Compared with before" src="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-compare-light.svg?v=bfac1610bbac85139e792ed9d8a839fa70c0ca0d3cc844501b7b12a5f2450343">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elentophanes/elentophanes/main/stats/activity-review-dark.svg?v=09cca6c641e6a03668a32c59a6eaad7ef7167eb33db8cc05942918b9758df703">
