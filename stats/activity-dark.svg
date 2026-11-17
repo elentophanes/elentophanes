@@ -375,12 +375,12 @@
             stroke="#30363d"
             stroke-width="1"/>
         
-<rect x="212.33" y="505.60" width="17.83" height="2.40" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="212.33" y="505.61" width="17.83" height="2.39" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="238.17" y="506.50" width="17.83" height="1.50" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="264.00" y="504.60" width="17.83" height="3.40" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="315.67" y="499.40" width="17.83" height="8.60" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="341.50" y="488.80" width="17.83" height="19.20" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="367.33" y="489.60" width="17.83" height="18.40" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="264.00" y="504.61" width="17.83" height="3.39" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="315.67" y="499.42" width="17.83" height="8.58" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="341.50" y="488.85" width="17.83" height="19.15" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="367.33" y="489.65" width="17.83" height="18.35" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="393.17" y="468.00" width="17.83" height="40.00" rx="1.5" fill="#3fb950" fill-opacity="1"/>
 
         <text
@@ -538,10 +538,10 @@
         </clipPath>
         
 <g clip-path="url(#language-bar)">
-<rect x="105.00" y="548" width="168.82" height="8" fill="#e5cd45"/>
-<rect x="273.82" y="548" width="134.73" height="8" fill="#3572A5"/>
-<rect x="408.56" y="548" width="3.36" height="8" fill="#012456"/>
-<rect x="411.91" y="548" width="2.30" height="8" fill="#f34b7d"/>
+<rect x="105.00" y="548" width="168.99" height="8" fill="#e5cd45"/>
+<rect x="273.99" y="548" width="134.57" height="8" fill="#3572A5"/>
+<rect x="408.56" y="548" width="3.35" height="8" fill="#012456"/>
+<rect x="411.92" y="548" width="2.30" height="8" fill="#f34b7d"/>
 <rect x="414.21" y="548" width="0.77" height="8" fill="#89e051"/>
 <rect x="414.98" y="548" width="0.02" height="8" fill="#6e7681"/>
 </g>
@@ -578,7 +578,7 @@
             font-size="11"
             fill="#e6edf3">
             Python
-            <tspan fill="#6e7681">43.5%</tspan>
+            <tspan fill="#6e7681">43.4%</tspan>
         </text>
             
 
@@ -653,5 +653,5 @@
             <tspan fill="#6e7681">&lt;0.1%</tspan>
         </text>
             
-<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 17 Nov 2026 13:22</text>
+<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 17 Nov 2026 16:59</text>
 </svg>
