@@ -289,12 +289,12 @@
             stroke-width="1"/>
 
         <polygon
-            points="105,422 105.0,422.0 115.7,422.0 126.4,418.8 137.1,422.0 147.8,422.0 158.4,422.0 169.1,418.2 179.8,422.0 190.5,422.0 201.2,422.0 211.9,422.0 222.6,417.1 233.3,409.6 244.0,382.0 254.7,391.7 265.3,401.5 276.0,389.0 286.7,422.0 297.4,422.0 308.1,422.0 318.8,420.4 329.5,384.7 340.2,412.8 350.9,422.0 361.6,422.0 372.2,421.5 382.9,413.9 393.6,398.8 404.3,411.2 415.0,418.2 415,422"
+            points="105,422 105.0,422.0 115.7,418.8 126.4,422.0 137.1,422.0 147.8,422.0 158.4,418.2 169.1,422.0 179.8,422.0 190.5,422.0 201.2,422.0 211.9,417.1 222.6,409.6 233.3,382.0 244.0,391.7 254.7,401.5 265.3,389.0 276.0,422.0 286.7,422.0 297.4,422.0 308.1,420.4 318.8,384.7 329.5,412.8 340.2,422.0 350.9,422.0 361.6,421.5 372.2,413.9 382.9,398.8 393.6,411.2 404.3,418.2 415.0,420.9 415,422"
             fill="#1a7f37"
             fill-opacity="0.15"/>
 
         <polyline
-            points="105.0,422.0 115.7,422.0 126.4,418.8 137.1,422.0 147.8,422.0 158.4,422.0 169.1,418.2 179.8,422.0 190.5,422.0 201.2,422.0 211.9,422.0 222.6,417.1 233.3,409.6 244.0,382.0 254.7,391.7 265.3,401.5 276.0,389.0 286.7,422.0 297.4,422.0 308.1,422.0 318.8,420.4 329.5,384.7 340.2,412.8 350.9,422.0 361.6,422.0 372.2,421.5 382.9,413.9 393.6,398.8 404.3,411.2 415.0,418.2"
+            points="105.0,422.0 115.7,418.8 126.4,422.0 137.1,422.0 147.8,422.0 158.4,418.2 169.1,422.0 179.8,422.0 190.5,422.0 201.2,422.0 211.9,417.1 222.6,409.6 233.3,382.0 244.0,391.7 254.7,401.5 265.3,389.0 276.0,422.0 286.7,422.0 297.4,422.0 308.1,420.4 318.8,384.7 329.5,412.8 340.2,422.0 350.9,422.0 361.6,421.5 372.2,413.9 382.9,398.8 393.6,411.2 404.3,418.2 415.0,420.9"
             fill="none"
             stroke="#1a7f37"
             stroke-width="1.5"
@@ -303,7 +303,7 @@
         
 
         <circle
-            cx="244.0"
+            cx="233.3"
             cy="382.0"
             r="3"
             fill="#1a7f37"
@@ -311,7 +311,7 @@
             stroke-width="1"/>
 
         <text
-            x="244.0"
+            x="233.3"
             y="375.0"
             text-anchor="middle"
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
@@ -328,7 +328,7 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="9"
             fill="#57606a">
-            Oct 19
+            Oct 20
         </text>
             
 
@@ -339,7 +339,7 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="9"
             fill="#57606a">
-            Nov 17
+            Nov 18
         </text>
             
 
@@ -375,12 +375,12 @@
             stroke="#d0d7de"
             stroke-width="1"/>
         
-<rect x="212.33" y="505.64" width="17.83" height="2.36" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="238.17" y="506.52" width="17.83" height="1.48" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="264.00" y="504.65" width="17.83" height="3.35" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="315.67" y="499.53" width="17.83" height="8.47" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="341.50" y="489.08" width="17.83" height="18.92" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
-<rect x="367.33" y="489.87" width="17.83" height="18.13" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="212.33" y="505.74" width="17.83" height="2.26" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="238.17" y="506.59" width="17.83" height="1.41" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="264.00" y="504.80" width="17.83" height="3.20" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="315.67" y="499.91" width="17.83" height="8.09" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="341.50" y="489.93" width="17.83" height="18.07" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
+<rect x="367.33" y="490.68" width="17.83" height="17.32" rx="1.5" fill="#1a7f37" fill-opacity="0.4"/>
 <rect x="393.17" y="468.00" width="17.83" height="40.00" rx="1.5" fill="#1a7f37" fill-opacity="1"/>
 
         <text
@@ -538,10 +538,10 @@
         </clipPath>
         
 <g clip-path="url(#language-bar)">
-<rect x="105.00" y="548" width="168.60" height="8" fill="#e5cd45"/>
-<rect x="273.60" y="548" width="134.33" height="8" fill="#3572A5"/>
-<rect x="407.94" y="548" width="3.34" height="8" fill="#012456"/>
-<rect x="411.27" y="548" width="2.29" height="8" fill="#f34b7d"/>
+<rect x="105.00" y="548" width="168.40" height="8" fill="#e5cd45"/>
+<rect x="273.40" y="548" width="134.17" height="8" fill="#3572A5"/>
+<rect x="407.57" y="548" width="3.71" height="8" fill="#012456"/>
+<rect x="411.28" y="548" width="2.29" height="8" fill="#f34b7d"/>
 <rect x="413.56" y="548" width="0.77" height="8" fill="#89e051"/>
 <rect x="414.33" y="548" width="0.67" height="8" fill="#8c959f"/>
 </g>
@@ -560,7 +560,7 @@
             font-size="11"
             fill="#24292f">
             OpenSCAD
-            <tspan fill="#57606a">54.4%</tspan>
+            <tspan fill="#57606a">54.3%</tspan>
         </text>
             
 
@@ -596,7 +596,7 @@
             font-size="11"
             fill="#24292f">
             PowerShell
-            <tspan fill="#57606a">1.1%</tspan>
+            <tspan fill="#57606a">1.2%</tspan>
         </text>
             
 
@@ -653,5 +653,5 @@
             <tspan fill="#57606a">0.2%</tspan>
         </text>
             
-<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 18 Nov 2026 16:40</text>
+<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#57606a">Updated 19 Nov 2026 13:02</text>
 </svg>
