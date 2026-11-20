@@ -375,12 +375,12 @@
             stroke="#30363d"
             stroke-width="1"/>
         
-<rect x="212.33" y="505.82" width="17.83" height="2.18" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="238.17" y="506.64" width="17.83" height="1.36" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="264.00" y="504.91" width="17.83" height="3.09" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="315.67" y="500.18" width="17.83" height="7.82" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="341.50" y="490.55" width="17.83" height="17.45" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
-<rect x="367.33" y="491.27" width="17.83" height="16.73" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="212.33" y="505.92" width="17.83" height="2.08" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="238.17" y="506.70" width="17.83" height="1.30" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="264.00" y="505.06" width="17.83" height="2.94" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="315.67" y="500.55" width="17.83" height="7.45" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="341.50" y="491.38" width="17.83" height="16.62" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
+<rect x="367.33" y="492.07" width="17.83" height="15.93" rx="1.5" fill="#3fb950" fill-opacity="0.4"/>
 <rect x="393.17" y="468.00" width="17.83" height="40.00" rx="1.5" fill="#3fb950" fill-opacity="1"/>
 
         <text
@@ -538,12 +538,12 @@
         </clipPath>
         
 <g clip-path="url(#language-bar)">
-<rect x="105.00" y="548" width="165.75" height="8" fill="#e5cd45"/>
-<rect x="270.75" y="548" width="133.60" height="8" fill="#3572A5"/>
-<rect x="404.35" y="548" width="6.99" height="8" fill="#012456"/>
-<rect x="411.34" y="548" width="2.25" height="8" fill="#f34b7d"/>
-<rect x="413.59" y="548" width="0.75" height="8" fill="#89e051"/>
-<rect x="414.34" y="548" width="0.66" height="8" fill="#6e7681"/>
+<rect x="105.00" y="548" width="162.31" height="8" fill="#e5cd45"/>
+<rect x="267.31" y="548" width="132.47" height="8" fill="#3572A5"/>
+<rect x="399.78" y="548" width="8.67" height="8" fill="#012456"/>
+<rect x="408.45" y="548" width="3.50" height="8" fill="#e34c26"/>
+<rect x="411.95" y="548" width="2.20" height="8" fill="#f34b7d"/>
+<rect x="414.15" y="548" width="0.85" height="8" fill="#6e7681"/>
 </g>
 
         <circle
@@ -560,7 +560,7 @@
             font-size="11"
             fill="#e6edf3">
             OpenSCAD
-            <tspan fill="#6e7681">53.5%</tspan>
+            <tspan fill="#6e7681">52.4%</tspan>
         </text>
             
 
@@ -578,7 +578,7 @@
             font-size="11"
             fill="#e6edf3">
             Python
-            <tspan fill="#6e7681">43.1%</tspan>
+            <tspan fill="#6e7681">42.7%</tspan>
         </text>
             
 
@@ -596,7 +596,7 @@
             font-size="11"
             fill="#e6edf3">
             PowerShell
-            <tspan fill="#6e7681">2.3%</tspan>
+            <tspan fill="#6e7681">2.8%</tspan>
         </text>
             
 
@@ -604,7 +604,7 @@
             cx="264.0"
             cy="590"
             r="4"
-            fill="#f34b7d"/>
+            fill="#e34c26"/>
 
         <text
             x="272.0"
@@ -613,8 +613,8 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="11"
             fill="#e6edf3">
-            C++
-            <tspan fill="#6e7681">0.7%</tspan>
+            HTML
+            <tspan fill="#6e7681">1.1%</tspan>
         </text>
             
 
@@ -622,7 +622,7 @@
             cx="109.0"
             cy="608"
             r="4"
-            fill="#89e051"/>
+            fill="#f34b7d"/>
 
         <text
             x="117.0"
@@ -631,8 +631,8 @@
             font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
             font-size="11"
             fill="#e6edf3">
-            Shell
-            <tspan fill="#6e7681">0.2%</tspan>
+            C++
+            <tspan fill="#6e7681">0.7%</tspan>
         </text>
             
 
@@ -650,8 +650,8 @@
             font-size="11"
             fill="#e6edf3">
             Other
-            <tspan fill="#6e7681">0.2%</tspan>
+            <tspan fill="#6e7681">0.3%</tspan>
         </text>
             
-<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 20 Nov 2026 13:05</text>
+<text x="508" y="623" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#6e7681">Updated 20 Nov 2026 16:27</text>
 </svg>
